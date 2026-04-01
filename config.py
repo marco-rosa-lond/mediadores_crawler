@@ -61,7 +61,7 @@ SEGURADORAS = {
     "AXA":              ["axa"],
     "Generali":         ["generali"],
     "Zurich":           ["zurich", "zürich"],
-    "Ageas":            ["ageas", "ocidental"],
+    "AGEAS":            ["ageas", "ocidental"],
     "Lusitania":        ["lusitania"],
     "Liberty":          ["liberty", "liberty seguros"],
     "Groupama":         ["groupama"],
@@ -96,23 +96,38 @@ SEGURADORAS = {
 }
 
 SEGURADORAS_URLS = {
-    "SaudePrime": "http://www.saudeprime.pt/",
-    "Liberty": "http://www.libertyseguros.pt/",
-    "Lusitania": "http://www.lusitania.pt/",
-    "MAPFRE": "http://www.mapfre.pt/",
-    "AGEAS": "https://www.ageas.pt",
-    "Prévoir": "http://www.prevoir.pt/",
-    "Tranquilidade": "https://www.tranquilidade.pt/pt",
-    "Fidelidade": "https://www.fidelidade.pt",
-    "Allianz": "http://www.allianz.pt/",
-    "Zurich": "http://www.zurich.com/portugal/home/home.htm",
-    "Generali": "http://www.generali.pt/",
-    "Caravela": "https://www.caravelaseguros.pt/",
-    "Logo": "https://www.logo.pt",
-    # "april": "https://www.april-portugal.pt/",
-    # "ergo": "https://www.ergo-segurosdeviagem.pt/",
-    # "realvida": "https://www.realvidaseguros.pt/"
+    "Fidelidade": ["fidelidade.pt"],
+    "Tranquilidade": ["tranquilidade.pt"],
+    "Allianz": ["allianz.pt"],
+    "Zurich": ["zurich.pt", "zurich.com"],
+    "Generali": ["generali.pt"],
+    "MAPFRE": ["mapfre.pt"],
+    "AGEAS": ["ageas.pt"],
+    "Logo": ["logo.pt"],
+    "Caravela": ["caravelaseguros.pt"],
+    "Prévoir": ["prevoir.pt"],
+    "Lusitania": ["lusitania.pt"],
+    "Liberty": ["libertyseguros.pt"],
 }
+
+# SEGURADORAS_URLS = {
+#     "SaudePrime": "http://www.saudeprime.pt/",
+#     "Liberty": "http://www.libertyseguros.pt/",
+#     "Lusitania": "http://www.lusitania.pt/",
+#     "MAPFRE": "http://www.mapfre.pt/",
+#     "AGEAS": "https://www.ageas.pt",
+#     "Prévoir": "http://www.prevoir.pt/",
+#     "Tranquilidade": "https://www.tranquilidade.pt/pt",
+#     "Fidelidade": "https://www.fidelidade.pt",
+#     "Allianz": "http://www.allianz.pt/",
+#     "Zurich": "http://www.zurich.com/portugal/home/home.htm",
+#     "Generali": "http://www.generali.pt/",
+#     "Caravela": "https://www.caravelaseguros.pt/",
+#     "Logo": "https://www.logo.pt",
+#     "april": "https://www.april-portugal.pt/",
+#     "ergo": "https://www.ergo-segurosdeviagem.pt/",
+#     "realvida": "https://www.realvidaseguros.pt/"
+# }
 
 # ── Armazenamento ─────────────────────────────────────────────────────────────
 DB_PATH         = "mediadores.db"
