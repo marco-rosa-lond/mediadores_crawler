@@ -20,7 +20,7 @@ from config import (
     SIMULATOR_KEYWORDS,
     FORM_KEYWORDS,
     PARTNER_KEYWORDS,
-    SEGURADORAS,
+    SEGURADORAS, SEGURADORAS_URLS,
 )
 
 logger = logging.getLogger(__name__)
@@ -62,10 +62,11 @@ class ExtractionResult:
     simulator_keywords_found: list[str] = field(default_factory=list)
     raw_links: list[str] = field(default_factory=list)
     seguradoras_imagens: dict[str, float] = field(default_factory=dict)
+    seguradoras_links: dict[str, float] = field(default_factory=dict)
 
 
 # ── Extractor principal ───────────────────────────────────────────────────────
-
+from urllib.parse import urlparse
 class HTMLExtractor:
     """
     Extrai informação estruturada de HTML renderizado.
@@ -113,14 +114,18 @@ class HTMLExtractor:
         # Seguradoras por texto
         result.seguradoras_texto = self._detect_seguradoras(text)
 
-        # NOVO: seguradoras por imagens
+        # Seguradoras por imagens
         result.seguradoras_imagens = self._detect_seguradoras_images(soup)
 
-        for seg, score in result.seguradoras_imagens.items():
-            result.seguradoras_texto[seg] = max(
-                result.seguradoras_texto.get(seg, 0),
-                score
-            )
+        # Seguradoras por links
+        result.seguradoras_links = self._detect_seguradoras_links(soup)
+
+        for source in [result.seguradoras_imagens, result.seguradoras_links]:
+            for seg, score in source.items():
+                result.seguradoras_texto[seg] = max(
+                    result.seguradoras_texto.get(seg, 0),
+                    score
+                )
 
         # Scores de simulador
         sim_kws = _find_keywords(text_lower, SIMULATOR_KEYWORDS)
@@ -225,6 +230,42 @@ class HTMLExtractor:
 
         return found
 
+    def _detect_seguradoras_links(self, soup: BeautifulSoup) -> dict[str, float]:
+        found = {}
+
+        links = soup.find_all("a", href=True)
+
+        for a in links:
+            href = a.get("href", "").lower()
+            if not href.startswith("http"):
+                continue
+
+            try:
+                domain = urlparse(href).netloc.replace("www.", "")
+            except:
+                continue
+
+            for name, domains in SEGURADORAS_URLS.items():
+                if any(d in domain for d in domains):
+
+                    # base score alto (muito confiável)
+                    score = 0.8
+
+                    # reforço se texto do link mencionar seguradora
+                    anchor_text = a.get_text(" ", strip=True).lower()
+                    if name.lower() in anchor_text:
+                        score += 0.1
+
+                    # reforço por contexto
+                    parent_classes = " ".join(a.parent.get("class", [])).lower()
+                    if any(k in parent_classes for k in ["partner", "parceiro"]):
+                        score += 0.1
+
+                    score = min(1.0, score)
+
+                    found[name] = max(found.get(name, 0), round(score, 2))
+
+        return found
     # ── Scores ────────────────────────────────────────────────────────────────
 
     def _score_simulator(
