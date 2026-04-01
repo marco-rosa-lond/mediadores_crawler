@@ -69,7 +69,7 @@ SEGURADORAS = {
     "Multicare":        ["multicare"],
     "Médis":            ["médis", "medis"],
     "AdvanceCare":      ["advancecare", "advance care"],
-    "Logo":             ["logo seguros", "logo"],
+    # "Logo":             ["logo seguros", "logo"],
     "Ok!teleseguros":   ["okteleseguros", "ok teleseguros"],
     "MGEN":   ["mgen"],
     "MetLife":   ["MetLife", 'metlife'],

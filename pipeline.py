@@ -197,3 +197,6 @@ if __name__ == "__main__":
     logger.info(f"{len(urls)} URLs carregadas de '{args.urls}'")
     asyncio.run(run_pipeline(urls, workers=args.workers,
                              headless=not args.no_headless))
+
+
+#  python pipeline.py --urls mediadores.csv --workers 15
