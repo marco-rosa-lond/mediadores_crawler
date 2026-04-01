@@ -61,6 +61,7 @@ class ExtractionResult:
     partner_keywords_found: list[str] = field(default_factory=list)
     simulator_keywords_found: list[str] = field(default_factory=list)
     raw_links: list[str] = field(default_factory=list)
+    seguradoras_imagens: dict[str, float] = field(default_factory=dict)
 
 
 # ── Extractor principal ───────────────────────────────────────────────────────
@@ -111,6 +112,15 @@ class HTMLExtractor:
 
         # Seguradoras por texto
         result.seguradoras_texto = self._detect_seguradoras(text)
+
+        # NOVO: seguradoras por imagens
+        result.seguradoras_imagens = self._detect_seguradoras_images(soup)
+
+        for seg, score in result.seguradoras_imagens.items():
+            result.seguradoras_texto[seg] = max(
+                result.seguradoras_texto.get(seg, 0),
+                score
+            )
 
         # Scores de simulador
         sim_kws = _find_keywords(text_lower, SIMULATOR_KEYWORDS)
@@ -188,6 +198,31 @@ class HTMLExtractor:
                 # Score baseado em frequência (normalizado 0–1)
                 score = min(1.0, len(matches) / 3)
                 found[name] = round(score, 2)
+        return found
+
+    def _detect_seguradoras_images(self, soup: BeautifulSoup) -> dict[str, float]:
+        found = {}
+
+        # procurar todas as imagens (especialmente em carousels)
+        imgs = soup.find_all("img")
+
+        for img in imgs:
+            alt = (img.get("alt") or "").lower()
+            src = (
+                    img.get("src") or
+                    img.get("data-src") or
+                    img.get("data-lazy") or
+                    ""
+            ).lower()
+
+            combined = f"{alt} {src}"
+
+            for name, pattern in self._seguradora_patterns.items():
+                if pattern.search(combined):
+                    # score maior porque imagem é forte evidência
+                    score = 0.9 if alt else 0.6
+                    found[name] = max(found.get(name, 0), score)
+
         return found
 
     # ── Scores ────────────────────────────────────────────────────────────────

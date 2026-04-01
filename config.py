@@ -12,6 +12,16 @@ REQUEST_TIMEOUT_MS  = 20_000   # Timeout por página (ms)
 RETRY_ATTEMPTS      = 2        # Tentativas em caso de falha
 RATE_LIMIT_DELAY    = 1.0      # Segundos entre pedidos ao mesmo domínio
 
+# Sites com proteção conhecida — ignorar após 1ª tentativa
+KNOWN_BLOCKED_DOMAINS = [
+    # preencher com domínios que bloqueiam sistematicamente
+]
+
+# Tentar apenas HTTP simples (sem Playwright)
+HTTP_ONLY_DOMAINS = [
+    # sites que bloqueiam browsers headless mas aceitam requests
+]
+
 # ── Páginas internas a visitar ────────────────────────────────────────────────
 INTERNAL_PATHS = [
     "/",
@@ -61,6 +71,28 @@ SEGURADORAS = {
     "AdvanceCare":      ["advancecare", "advance care"],
     "Logo":             ["logo seguros", "logo"],
     "Ok!teleseguros":   ["okteleseguros", "ok teleseguros"],
+    "MGEN":   ["mgen"],
+    "MetLife":   ["MetLife", 'metlife'],
+    "MAPFRE":   ["MAPFRE", 'mapfre'],
+    "Caravela":   ["Caravela", 'caravela seguros'],
+    "Una":   ["Una", 'una'],
+    "prévoir":   ["prevoir"],
+    "acp":   ["ACP"],
+    "ARAG":   ["arag"],
+    "ASSA":   ["assa"],
+    "caser":   ["caser"],
+    "lloyd's":   ["Lloyd's", "Lloyds"],
+    "Reale":   ["reale"],
+    "STARR":   ["starr"],
+    "Coface":   ["coface"],
+    "Cosec":   ["cosec"],
+    "eurovida":   ["eurovida"],
+    "Victoria":   ["victoria"],
+    "Cesce":   ["cesce"],
+    "SaudePrime":   ["saude_prime", "saude prime"],
+    "açoreana":   ["açoreana", "acoreana"],
+    "AIG":   ["aig"],
+    "innovarisk":   ["innovarisk"],
 }
 
 # ── Armazenamento ─────────────────────────────────────────────────────────────
