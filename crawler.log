@@ -17562,3 +17562,1238 @@ Call log:
 2026-04-01 17:59:22,661 [INFO] crawler.page_navigator: [https://www.algarseguros.pt] 1 página(s) recolhidas.
 2026-04-01 17:59:22,800 [INFO] pipeline: ✓ www.algarseguros.pt — 1 pág | sim=0.50 | form=1.00 | segs=2 | 6.6s
 2026-04-01 17:59:22,855 [INFO] pipeline: → A processar: www.giraldoseguros.com
+2026-04-01 17:59:24,815 [WARNING] crawler.page_navigator: [https://www.filipefaria.pt/sobre] Erro: Page.goto: net::ERR_TOO_MANY_REDIRECTS at https://www.filipefaria.pt/sobre
+Call log:
+  - navigating to "https://www.filipefaria.pt/sobre", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 17:59:24,938 [INFO] crawler.page_navigator: [https://www.camaraoseguros.pt] 1 página(s) recolhidas.
+2026-04-01 17:59:24,945 [INFO] pipeline: ✓ www.camaraoseguros.pt — 1 pág | sim=0.00 | form=0.00 | segs=0 | 4.8s
+2026-04-01 17:59:24,976 [INFO] pipeline: → A processar: www.medal.pt
+2026-04-01 17:59:25,124 [INFO] crawler.page_navigator: [https://www.inagis.pt] 4 página(s) recolhidas.
+2026-04-01 17:59:25,318 [INFO] pipeline: ✓ www.inagis.pt — 4 pág | sim=0.10 | form=0.80 | segs=10 | 22.1s
+2026-04-01 17:59:25,455 [INFO] pipeline: → A processar: www.lfp-seguros.com
+2026-04-01 17:59:28,305 [WARNING] crawler.page_navigator: [https://www.filipefaria.pt/sobre] Erro: Page.goto: net::ERR_TOO_MANY_REDIRECTS at https://www.filipefaria.pt/sobre
+Call log:
+  - navigating to "https://www.filipefaria.pt/sobre", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 17:59:28,699 [INFO] crawler.page_navigator: [https://www.2doinsurance.pt] 1 página(s) recolhidas.
+2026-04-01 17:59:28,759 [INFO] pipeline: ✓ www.2doinsurance.pt — 1 pág | sim=0.30 | form=0.95 | segs=10 | 6.7s
+2026-04-01 17:59:28,822 [INFO] pipeline: → A processar: www.segursintra.pt
+2026-04-01 17:59:28,933 [INFO] crawler.page_navigator: [https://www.mblseguros.pt] 3 página(s) recolhidas.
+2026-04-01 17:59:29,078 [INFO] pipeline: ✓ www.mblseguros.pt — 3 pág | sim=0.00 | form=1.00 | segs=9 | 43.6s
+2026-04-01 17:59:29,168 [INFO] pipeline: → A processar: www.segbest.pt
+2026-04-01 17:59:29,216 [INFO] crawler.page_navigator: [https://www.realvidaseguros.pt] 7 página(s) recolhidas.
+2026-04-01 17:59:29,477 [INFO] pipeline: ✓ www.realvidaseguros.pt — 7 pág | sim=0.70 | form=1.00 | segs=0 | 36.7s
+2026-04-01 17:59:29,687 [INFO] pipeline: → A processar: www.antoniodomingoseguros.com
+2026-04-01 17:59:29,706 [WARNING] crawler.page_navigator: [https://www.segursintra.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.segursintra.pt/
+Call log:
+  - navigating to "https://www.segursintra.pt/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 17:59:30,236 [INFO] crawler.page_navigator: [https://www.duartesmseguros.com] 4 página(s) recolhidas.
+2026-04-01 17:59:30,339 [INFO] pipeline: ✓ www.duartesmseguros.com — 4 pág | sim=0.30 | form=0.80 | segs=6 | 84.3s
+2026-04-01 17:59:30,500 [INFO] pipeline: → A processar: www.fidelidade.pt
+2026-04-01 17:59:30,756 [WARNING] crawler.page_navigator: [https://www.segursintra.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.segursintra.pt/
+Call log:
+  - navigating to "https://www.segursintra.pt/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 17:59:31,206 [WARNING] crawler.page_navigator: [https://www.filipefaria.pt/quem-somos] Erro: Page.goto: net::ERR_TOO_MANY_REDIRECTS at https://www.filipefaria.pt/quem-somos
+Call log:
+  - navigating to "https://www.filipefaria.pt/quem-somos", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 17:59:31,805 [WARNING] crawler.page_navigator: [https://www.segursintra.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.segursintra.pt/
+Call log:
+  - navigating to "https://www.segursintra.pt/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 17:59:31,811 [WARNING] pipeline: ✗ www.segursintra.pt: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.segursintra.pt/
+Call log:
+  - navigating to "https://www.segursintra.pt/", waiting until "domcontentloaded"
+
+2026-04-01 17:59:31,827 [INFO] pipeline: → A processar: www.desiseg.pt
+2026-04-01 17:59:34,721 [INFO] crawler.page_navigator: [https://www.doutorvida.pt] 4 página(s) recolhidas.
+2026-04-01 17:59:34,955 [INFO] pipeline: ✓ www.doutorvida.pt — 4 pág | sim=0.10 | form=1.00 | segs=0 | 34.1s
+2026-04-01 17:59:35,092 [INFO] pipeline: → A processar: www.protesteseguros.pt
+2026-04-01 17:59:35,893 [INFO] crawler.page_navigator: [https://www.mgtseguros.pt] 7 página(s) recolhidas.
+2026-04-01 17:59:37,894 [INFO] pipeline: ✓ www.mgtseguros.pt — 7 pág | sim=0.10 | form=0.80 | segs=6 | 66.5s
+2026-04-01 17:59:38,337 [INFO] pipeline: → A processar: www.selectsafety.pt
+2026-04-01 17:59:42,904 [INFO] crawler.page_navigator: [https://www.feelseguros.pt] 1 página(s) recolhidas.
+2026-04-01 17:59:43,153 [INFO] pipeline: ✓ www.feelseguros.pt — 1 pág | sim=0.00 | form=0.05 | segs=0 | 25.5s
+2026-04-01 17:59:43,243 [INFO] pipeline: → A processar: www.jmlseguros.com
+2026-04-01 17:59:43,852 [WARNING] crawler.page_navigator: [https://www.filipefaria.pt/quem-somos] Erro: Page.goto: net::ERR_TOO_MANY_REDIRECTS at https://www.filipefaria.pt/quem-somos
+Call log:
+  - navigating to "https://www.filipefaria.pt/quem-somos", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:00:01,968 [INFO] crawler.page_navigator: [https://www.jmlseguros.com] 1 página(s) recolhidas.
+2026-04-01 18:00:02,013 [INFO] pipeline: ✓ www.jmlseguros.com — 1 pág | sim=0.00 | form=0.05 | segs=0 | 18.8s
+2026-04-01 18:00:02,083 [INFO] pipeline: → A processar: www.lei.com.pt
+2026-04-01 18:00:04,921 [WARNING] crawler.page_navigator: [https://www.filipefaria.pt/quem-somos] Timeout (tentativa 3)
+2026-04-01 18:00:05,477 [INFO] crawler.page_navigator: [https://www.clarototal.pt] 6 página(s) recolhidas.
+2026-04-01 18:00:06,133 [INFO] pipeline: ✓ www.clarototal.pt — 6 pág | sim=0.00 | form=1.00 | segs=8 | 55.4s
+2026-04-01 18:00:06,605 [INFO] pipeline: → A processar: www.nunocarmoseguros.pt
+2026-04-01 18:00:06,727 [INFO] crawler.page_navigator: [https://www.antoniodomingoseguros.com] 1 página(s) recolhidas.
+2026-04-01 18:00:06,928 [INFO] pipeline: ✓ www.antoniodomingoseguros.com — 1 pág | sim=0.00 | form=1.00 | segs=0 | 37.2s
+2026-04-01 18:00:07,010 [INFO] pipeline: → A processar: www.guerreiros.pt
+2026-04-01 18:00:13,500 [INFO] crawler.page_navigator: [https://www.protesteseguros.pt] 2 página(s) recolhidas.
+2026-04-01 18:00:13,811 [INFO] pipeline: ✓ www.protesteseguros.pt — 2 pág | sim=0.10 | form=0.00 | segs=0 | 38.7s
+2026-04-01 18:00:14,065 [INFO] pipeline: → A processar: www.planicie-seguros.pt
+2026-04-01 18:00:16,227 [INFO] crawler.page_navigator: [https://www.lfp-seguros.com] 5 página(s) recolhidas.
+2026-04-01 18:00:17,765 [INFO] pipeline: ✓ www.lfp-seguros.com — 5 pág | sim=0.00 | form=0.80 | segs=1 | 52.3s
+2026-04-01 18:00:17,975 [INFO] pipeline: → A processar: www.nacora.pt
+2026-04-01 18:00:32,436 [INFO] crawler.page_navigator: [https://www.giraldoseguros.com] 6 página(s) recolhidas.
+2026-04-01 18:00:33,533 [INFO] pipeline: ✓ www.giraldoseguros.com — 6 pág | sim=0.00 | form=0.80 | segs=1 | 70.7s
+2026-04-01 18:00:33,894 [INFO] pipeline: → A processar: www.medipremier.pt
+2026-04-01 18:00:36,329 [INFO] crawler.page_navigator: [https://www.segbest.pt] 1 página(s) recolhidas.
+2026-04-01 18:00:36,543 [INFO] pipeline: ✓ www.segbest.pt — 1 pág | sim=0.00 | form=0.05 | segs=6 | 67.4s
+2026-04-01 18:00:36,710 [INFO] pipeline: → A processar: www.mmseguros.pt
+2026-04-01 18:00:42,883 [INFO] crawler.page_navigator: [https://www.planicie-seguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:00:43,018 [INFO] pipeline: ✓ www.planicie-seguros.pt — 1 pág | sim=0.00 | form=0.10 | segs=0 | 29.0s
+2026-04-01 18:00:43,136 [INFO] pipeline: → A processar: generalitranquilidade.pt
+2026-04-01 18:00:45,761 [INFO] crawler.page_navigator: [https://www.unipeople.pt] 5 página(s) recolhidas.
+2026-04-01 18:00:52,297 [INFO] pipeline: ✓ www.unipeople.pt — 5 pág | sim=0.40 | form=1.00 | segs=5 | 176.8s
+2026-04-01 18:00:52,628 [INFO] pipeline: → A processar: www.pajofedi.pt
+2026-04-01 18:00:56,972 [WARNING] crawler.page_navigator: [https://www.mmseguros.pt] Timeout (tentativa 1)
+2026-04-01 18:00:56,978 [WARNING] crawler.page_navigator: [https://www.selectsafety.pt/contacto] Timeout (tentativa 1)
+2026-04-01 18:01:04,162 [INFO] crawler.page_navigator: [https://www.guerreiros.pt] 2 página(s) recolhidas.
+2026-04-01 18:01:04,436 [INFO] pipeline: ✓ www.guerreiros.pt — 2 pág | sim=0.10 | form=0.10 | segs=0 | 57.4s
+2026-04-01 18:01:04,628 [INFO] pipeline: → A processar: www.balgrid.pt
+2026-04-01 18:01:08,077 [INFO] crawler.page_navigator: [https://www.desiseg.pt] 2 página(s) recolhidas.
+2026-04-01 18:01:08,362 [INFO] pipeline: ✓ www.desiseg.pt — 2 pág | sim=0.00 | form=1.00 | segs=2 | 96.5s
+2026-04-01 18:01:08,627 [INFO] pipeline: → A processar: www.goteseguros.com
+2026-04-01 18:01:10,198 [INFO] crawler.page_navigator: [https://www.fidelidade.pt] 6 página(s) recolhidas.
+2026-04-01 18:01:12,485 [INFO] pipeline: ✓ www.fidelidade.pt — 6 pág | sim=0.50 | form=1.00 | segs=2 | 102.0s
+2026-04-01 18:01:12,852 [INFO] pipeline: → A processar: www.ls-seguros.pt
+2026-04-01 18:01:12,919 [INFO] crawler.page_navigator: [https://www.medal.pt] 1 página(s) recolhidas.
+2026-04-01 18:01:13,589 [INFO] pipeline: ✓ www.medal.pt — 1 pág | sim=0.00 | form=0.95 | segs=9 | 108.6s
+2026-04-01 18:01:13,782 [INFO] pipeline: → A processar: www.novagestecla.pt
+2026-04-01 18:01:13,865 [INFO] crawler.page_navigator: [https://www.alfaiategarcia.com] 5 página(s) recolhidas.
+2026-04-01 18:01:15,293 [INFO] pipeline: ✓ www.alfaiategarcia.com — 5 pág | sim=0.20 | form=1.00 | segs=0 | 157.9s
+2026-04-01 18:01:15,544 [INFO] pipeline: → A processar: www.gruben.pt
+2026-04-01 18:01:16,474 [INFO] crawler.page_navigator: [https://www.filipefaria.pt] 6 página(s) recolhidas.
+2026-04-01 18:01:17,643 [INFO] pipeline: ✓ www.filipefaria.pt — 6 pág | sim=0.00 | form=1.00 | segs=2 | 205.1s
+2026-04-01 18:01:18,120 [INFO] pipeline: → A processar: www.bto.pt
+2026-04-01 18:01:26,793 [INFO] crawler.page_navigator: [https://www.balgrid.pt] 1 página(s) recolhidas.
+2026-04-01 18:01:26,881 [INFO] pipeline: ✓ www.balgrid.pt — 1 pág | sim=0.00 | form=0.05 | segs=0 | 22.3s
+2026-04-01 18:01:26,969 [INFO] pipeline: → A processar: www.carlosandrade.pt
+2026-04-01 18:01:28,063 [INFO] crawler.page_navigator: [https://www.mmseguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:01:28,357 [INFO] pipeline: ✓ www.mmseguros.pt — 1 pág | sim=0.20 | form=0.00 | segs=0 | 51.6s
+2026-04-01 18:01:28,483 [INFO] pipeline: → A processar: www.f2f.pt
+2026-04-01 18:01:30,911 [INFO] crawler.page_navigator: [https://www.ls-seguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:01:31,230 [INFO] pipeline: ✓ www.ls-seguros.pt — 1 pág | sim=0.00 | form=0.95 | segs=8 | 18.4s
+2026-04-01 18:01:31,545 [INFO] pipeline: → A processar: www.medicobra.pt
+2026-04-01 18:01:38,980 [INFO] crawler.page_navigator: [https://www.nacora.pt] 5 página(s) recolhidas.
+2026-04-01 18:01:40,602 [INFO] pipeline: ✓ www.nacora.pt — 5 pág | sim=0.00 | form=0.70 | segs=2 | 82.6s
+2026-04-01 18:01:40,956 [INFO] pipeline: → A processar: www.aquintelaseguros.pt
+2026-04-01 18:01:44,557 [INFO] crawler.page_navigator: [https://www.nunocarmoseguros.pt] 3 página(s) recolhidas.
+2026-04-01 18:01:45,053 [INFO] pipeline: ✓ www.nunocarmoseguros.pt — 3 pág | sim=0.00 | form=0.75 | segs=9 | 98.4s
+2026-04-01 18:01:45,243 [INFO] pipeline: → A processar: www.alseguros.pt
+2026-04-01 18:01:45,902 [INFO] crawler.page_navigator: [https://www.serviplus.pt] 4 página(s) recolhidas.
+2026-04-01 18:01:46,530 [INFO] pipeline: ✓ www.serviplus.pt — 4 pág | sim=0.30 | form=1.00 | segs=7 | 144.2s
+2026-04-01 18:01:46,982 [INFO] pipeline: → A processar: www.maxiseguros.pt
+2026-04-01 18:01:51,809 [INFO] crawler.page_navigator: [https://www.pajofedi.pt] 3 página(s) recolhidas.
+2026-04-01 18:01:51,901 [INFO] pipeline: ✓ www.pajofedi.pt — 3 pág | sim=0.00 | form=0.00 | segs=4 | 59.3s
+2026-04-01 18:01:52,104 [INFO] pipeline: → A processar: www.nauticusseguros.pt
+2026-04-01 18:01:53,805 [INFO] crawler.page_navigator: [https://www.lei.com.pt] 5 página(s) recolhidas.
+2026-04-01 18:01:54,315 [INFO] pipeline: ✓ www.lei.com.pt — 5 pág | sim=0.00 | form=0.80 | segs=0 | 112.2s
+2026-04-01 18:01:54,707 [INFO] pipeline: → A processar: www.serradeiroseguros.pt
+2026-04-01 18:01:55,442 [INFO] crawler.page_navigator: [https://www.goteseguros.com] 4 página(s) recolhidas.
+2026-04-01 18:01:55,734 [INFO] pipeline: ✓ www.goteseguros.com — 4 pág | sim=0.10 | form=0.10 | segs=0 | 47.1s
+2026-04-01 18:01:55,949 [INFO] pipeline: → A processar: www.hwkconsulting.com
+2026-04-01 18:02:06,496 [INFO] crawler.page_navigator: [https://www.selectsafety.pt] 4 página(s) recolhidas.
+2026-04-01 18:02:07,666 [INFO] pipeline: ✓ www.selectsafety.pt — 4 pág | sim=0.10 | form=1.00 | segs=0 | 149.3s
+2026-04-01 18:02:07,984 [INFO] pipeline: → A processar: www.joaoperesbritoseguros.com
+2026-04-01 18:02:11,166 [WARNING] crawler.page_navigator: [https://www.joaoperesbritoseguros.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.joaoperesbritoseguros.com/
+Call log:
+  - navigating to "https://www.joaoperesbritoseguros.com/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:02:15,813 [WARNING] crawler.page_navigator: [https://www.joaoperesbritoseguros.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.joaoperesbritoseguros.com/
+Call log:
+  - navigating to "https://www.joaoperesbritoseguros.com/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:02:18,235 [WARNING] crawler.page_navigator: [https://www.joaoperesbritoseguros.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.joaoperesbritoseguros.com/
+Call log:
+  - navigating to "https://www.joaoperesbritoseguros.com/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:02:18,256 [WARNING] pipeline: ✗ www.joaoperesbritoseguros.com: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.joaoperesbritoseguros.com/
+Call log:
+  - navigating to "https://www.joaoperesbritoseguros.com/", waiting until "domcontentloaded"
+
+2026-04-01 18:02:18,304 [INFO] pipeline: → A processar: www.raseguros.net
+2026-04-01 18:02:26,360 [INFO] crawler.page_navigator: [https://www.novagestecla.pt] 2 página(s) recolhidas.
+2026-04-01 18:02:27,686 [INFO] pipeline: ✓ www.novagestecla.pt — 2 pág | sim=0.10 | form=0.05 | segs=0 | 73.9s
+2026-04-01 18:02:27,854 [INFO] pipeline: → A processar: www.smseguros.pt
+2026-04-01 18:02:38,703 [INFO] crawler.page_navigator: [https://www.bto.pt] 2 página(s) recolhidas.
+2026-04-01 18:02:39,092 [INFO] pipeline: ✓ www.bto.pt — 2 pág | sim=0.00 | form=0.00 | segs=0 | 81.0s
+2026-04-01 18:02:39,428 [INFO] pipeline: → A processar: www.maagarcia.pt
+2026-04-01 18:02:48,126 [INFO] crawler.page_navigator: [https://www.aquintelaseguros.pt] 2 página(s) recolhidas.
+2026-04-01 18:02:49,344 [INFO] pipeline: ✓ www.aquintelaseguros.pt — 2 pág | sim=0.00 | form=0.10 | segs=2 | 68.4s
+2026-04-01 18:02:49,505 [INFO] pipeline: → A processar: www.100riscos.pt
+2026-04-01 18:03:11,337 [INFO] crawler.page_navigator: [https://www.gruben.pt] 8 página(s) recolhidas.
+2026-04-01 18:03:11,551 [INFO] pipeline: ✓ www.gruben.pt — 8 pág | sim=0.10 | form=1.00 | segs=11 | 116.0s
+2026-04-01 18:03:11,801 [INFO] pipeline: → A processar: www.lxqb.pt
+2026-04-01 18:03:11,826 [INFO] crawler.page_navigator: [https://www.medipremier.pt] 8 página(s) recolhidas.
+2026-04-01 18:03:12,103 [INFO] pipeline: ✓ www.medipremier.pt — 8 pág | sim=0.20 | form=1.00 | segs=12 | 158.2s
+2026-04-01 18:03:12,385 [INFO] pipeline: → A processar: www.lmjcseguros.pt
+2026-04-01 18:03:14,311 [INFO] crawler.page_navigator: [https://www.lmjcseguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:03:14,314 [INFO] pipeline: ✓ www.lmjcseguros.pt — 1 pág | sim=0.00 | form=0.00 | segs=0 | 1.9s
+2026-04-01 18:03:14,339 [INFO] pipeline: → A processar: www.accipiens-seguros.pt
+2026-04-01 18:03:15,280 [INFO] crawler.page_navigator: [https://www.medicobra.pt] 4 página(s) recolhidas.
+2026-04-01 18:03:15,323 [INFO] pipeline: ✓ www.medicobra.pt — 4 pág | sim=0.10 | form=0.80 | segs=6 | 103.8s
+2026-04-01 18:03:15,408 [INFO] pipeline: → A processar: www.omegaseguros.pt
+2026-04-01 18:03:15,762 [INFO] crawler.page_navigator: [https://www.serradeiroseguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:03:15,786 [INFO] pipeline: ✓ www.serradeiroseguros.pt — 1 pág | sim=0.10 | form=1.00 | segs=0 | 81.1s
+2026-04-01 18:03:15,825 [INFO] pipeline: → A processar: www.asa-seguros.pt
+2026-04-01 18:03:17,367 [INFO] crawler.page_navigator: [https://www.f2f.pt] 6 página(s) recolhidas.
+2026-04-01 18:03:17,463 [INFO] pipeline: ✓ www.f2f.pt — 6 pág | sim=0.30 | form=1.00 | segs=8 | 109.0s
+2026-04-01 18:03:17,658 [INFO] pipeline: → A processar: www.liderseguros.pt
+2026-04-01 18:03:17,678 [INFO] crawler.page_navigator: [https://www.100riscos.pt] 5 página(s) recolhidas.
+2026-04-01 18:03:17,714 [INFO] pipeline: ✓ www.100riscos.pt — 5 pág | sim=0.10 | form=0.75 | segs=1 | 28.2s
+2026-04-01 18:03:17,866 [INFO] pipeline: → A processar: www.gasparsegur.pt
+2026-04-01 18:03:17,893 [INFO] crawler.page_navigator: [https://www.nauticusseguros.pt] 6 página(s) recolhidas.
+2026-04-01 18:03:17,970 [INFO] pipeline: ✓ www.nauticusseguros.pt — 6 pág | sim=0.00 | form=0.05 | segs=8 | 85.9s
+2026-04-01 18:03:18,174 [INFO] pipeline: → A processar: www.goncalvesseguros.pt
+2026-04-01 18:03:18,254 [INFO] crawler.page_navigator: [https://www.maagarcia.pt] 1 página(s) recolhidas.
+2026-04-01 18:03:18,279 [INFO] pipeline: ✓ www.maagarcia.pt — 1 pág | sim=0.10 | form=0.75 | segs=0 | 38.8s
+2026-04-01 18:03:18,320 [INFO] pipeline: → A processar: www.bejaseguros.pt
+2026-04-01 18:03:19,738 [INFO] crawler.page_navigator: [https://www.lxqb.pt] 4 página(s) recolhidas.
+2026-04-01 18:03:19,819 [INFO] pipeline: ✓ www.lxqb.pt — 4 pág | sim=0.00 | form=0.65 | segs=8 | 8.0s
+2026-04-01 18:03:19,907 [INFO] pipeline: → A processar: crl-seguros.com
+2026-04-01 18:03:20,471 [INFO] crawler.page_navigator: [https://www.smseguros.pt] 6 página(s) recolhidas.
+2026-04-01 18:03:20,612 [INFO] pipeline: ✓ www.smseguros.pt — 6 pág | sim=0.10 | form=0.05 | segs=0 | 52.8s
+2026-04-01 18:03:20,783 [INFO] pipeline: → A processar: www.maiagora.pt
+2026-04-01 18:03:20,873 [INFO] crawler.page_navigator: [https://www.maxiseguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:03:20,928 [INFO] pipeline: ✓ www.maxiseguros.pt — 1 pág | sim=0.10 | form=0.05 | segs=0 | 93.9s
+2026-04-01 18:03:20,971 [INFO] pipeline: → A processar: www.visar.pt
+2026-04-01 18:03:21,451 [INFO] crawler.page_navigator: [https://www.carlosandrade.pt] 5 página(s) recolhidas.
+2026-04-01 18:03:21,639 [INFO] pipeline: ✓ www.carlosandrade.pt — 5 pág | sim=0.00 | form=1.00 | segs=0 | 114.7s
+2026-04-01 18:03:21,732 [INFO] pipeline: → A processar: www.gowin.pt
+2026-04-01 18:03:22,502 [WARNING] pipeline: ✗ www.gowin.pt: HTTP 404
+2026-04-01 18:03:22,523 [INFO] pipeline: → A processar: www.maxibroker.pt
+2026-04-01 18:03:25,473 [INFO] crawler.page_navigator: [https://www.maiagora.pt] 1 página(s) recolhidas.
+2026-04-01 18:03:25,509 [INFO] pipeline: ✓ www.maiagora.pt — 1 pág | sim=0.00 | form=1.00 | segs=0 | 4.7s
+2026-04-01 18:03:25,548 [INFO] pipeline: → A processar: www.segurospereirinha.pt
+2026-04-01 18:03:25,559 [INFO] crawler.page_navigator: [https://www.goncalvesseguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:03:25,642 [INFO] pipeline: ✓ www.goncalvesseguros.pt — 1 pág | sim=0.00 | form=1.00 | segs=0 | 7.5s
+2026-04-01 18:03:25,690 [INFO] pipeline: → A processar: www.menono.pt
+2026-04-01 18:03:29,516 [INFO] crawler.page_navigator: [https://www.maxibroker.pt] 1 página(s) recolhidas.
+2026-04-01 18:03:29,588 [INFO] pipeline: ✓ www.maxibroker.pt — 1 pág | sim=0.00 | form=1.00 | segs=12 | 7.1s
+2026-04-01 18:03:29,636 [INFO] pipeline: → A processar: www.mudey.pt
+2026-04-01 18:03:30,368 [INFO] crawler.page_navigator: [https://www.liderseguros.pt] 6 página(s) recolhidas.
+2026-04-01 18:03:30,605 [INFO] pipeline: ✓ www.liderseguros.pt — 6 pág | sim=0.10 | form=0.15 | segs=4 | 12.9s
+2026-04-01 18:03:30,752 [INFO] pipeline: → A processar: www.leborsafe.pt
+2026-04-01 18:03:33,206 [INFO] crawler.page_navigator: [https://www.leborsafe.pt] 1 página(s) recolhidas.
+2026-04-01 18:03:33,215 [INFO] pipeline: ✓ www.leborsafe.pt — 1 pág | sim=0.00 | form=0.30 | segs=0 | 2.5s
+2026-04-01 18:03:33,244 [INFO] pipeline: → A processar: www.sergiomaldonado-seguros.pt
+2026-04-01 18:03:33,407 [INFO] crawler.page_navigator: [https://www.asa-seguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:03:33,439 [INFO] pipeline: ✓ www.asa-seguros.pt — 1 pág | sim=0.00 | form=1.00 | segs=0 | 17.6s
+2026-04-01 18:03:33,485 [INFO] pipeline: → A processar: www.manuelmaria.pt
+2026-04-01 18:03:33,928 [INFO] crawler.page_navigator: [https://generalitranquilidade.pt] 7 página(s) recolhidas.
+2026-04-01 18:03:34,494 [INFO] pipeline: ✓ generalitranquilidade.pt — 7 pág | sim=0.40 | form=1.00 | segs=5 | 171.4s
+2026-04-01 18:03:34,664 [INFO] pipeline: → A processar: www.securesolutions.pt
+2026-04-01 18:03:34,696 [INFO] crawler.page_navigator: [https://www.raseguros.net] 2 página(s) recolhidas.
+2026-04-01 18:03:34,708 [WARNING] pipeline: ✗ www.manuelmaria.pt: HTTP 500
+2026-04-01 18:03:34,724 [INFO] pipeline: → A processar: www.esposeguros.com
+2026-04-01 18:03:34,794 [INFO] pipeline: ✓ www.raseguros.net — 2 pág | sim=0.10 | form=1.00 | segs=0 | 76.5s
+2026-04-01 18:03:34,854 [INFO] pipeline: → A processar: www.antral.pt
+2026-04-01 18:03:34,864 [INFO] crawler.page_navigator: [https://www.omegaseguros.pt] 7 página(s) recolhidas.
+2026-04-01 18:03:35,139 [INFO] pipeline: ✓ www.omegaseguros.pt — 7 pág | sim=0.00 | form=1.00 | segs=0 | 19.7s
+2026-04-01 18:03:35,256 [INFO] pipeline: → A processar: www.linhamedieval.pt
+2026-04-01 18:03:36,476 [INFO] crawler.page_navigator: [https://www.bejaseguros.pt] 4 página(s) recolhidas.
+2026-04-01 18:03:36,685 [INFO] pipeline: ✓ www.bejaseguros.pt — 4 pág | sim=0.00 | form=0.70 | segs=0 | 18.4s
+2026-04-01 18:03:36,768 [INFO] pipeline: → A processar: www.jsp-seguros.pt
+2026-04-01 18:03:39,052 [INFO] crawler.page_navigator: [https://www.securesolutions.pt] 1 página(s) recolhidas.
+2026-04-01 18:03:39,126 [INFO] pipeline: ✓ www.securesolutions.pt — 1 pág | sim=0.00 | form=0.15 | segs=1 | 4.5s
+2026-04-01 18:03:39,165 [INFO] pipeline: → A processar: www.diamantinoseguros.com
+2026-04-01 18:03:41,730 [INFO] crawler.page_navigator: [https://www.segurospereirinha.pt] 4 página(s) recolhidas.
+2026-04-01 18:03:41,861 [INFO] pipeline: ✓ www.segurospereirinha.pt — 4 pág | sim=0.10 | form=1.00 | segs=1 | 16.3s
+2026-04-01 18:03:41,973 [INFO] pipeline: → A processar: www.openseguros.pt
+2026-04-01 18:03:42,020 [INFO] crawler.page_navigator: [https://www.hwkconsulting.com] 10 página(s) recolhidas.
+2026-04-01 18:03:42,779 [INFO] pipeline: ✓ www.hwkconsulting.com — 10 pág | sim=0.00 | form=1.00 | segs=0 | 106.8s
+2026-04-01 18:03:42,949 [INFO] pipeline: → A processar: www.mac-seguros.pt
+2026-04-01 18:03:42,989 [INFO] crawler.page_navigator: [https://www.gasparsegur.pt] 10 página(s) recolhidas.
+2026-04-01 18:03:43,045 [INFO] pipeline: ✓ www.gasparsegur.pt — 10 pág | sim=0.00 | form=0.30 | segs=6 | 25.2s
+2026-04-01 18:03:43,204 [INFO] pipeline: → A processar: www.pintoeramos.com
+2026-04-01 18:03:43,559 [WARNING] crawler.page_navigator: [https://www.pintoeramos.com] Erro: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.pintoeramos.com/
+Call log:
+  - navigating to "https://www.pintoeramos.com/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:03:44,243 [INFO] crawler.page_navigator: [https://www.accipiens-seguros.pt] 9 página(s) recolhidas.
+2026-04-01 18:03:44,337 [INFO] pipeline: ✓ www.accipiens-seguros.pt — 9 pág | sim=0.10 | form=1.00 | segs=1 | 30.0s
+2026-04-01 18:03:44,604 [INFO] pipeline: → A processar: www.fidelidade.pt
+2026-04-01 18:03:44,757 [WARNING] crawler.page_navigator: [https://www.pintoeramos.com] Erro: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.pintoeramos.com/
+Call log:
+  - navigating to "https://www.pintoeramos.com/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:03:45,820 [WARNING] crawler.page_navigator: [https://www.pintoeramos.com] Erro: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.pintoeramos.com/
+Call log:
+  - navigating to "https://www.pintoeramos.com/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:03:45,825 [WARNING] pipeline: ✗ www.pintoeramos.com: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.pintoeramos.com/
+Call log:
+  - navigating to "https://www.pintoeramos.com/", waiting until "domcontentloaded"
+
+2026-04-01 18:03:45,837 [INFO] pipeline: → A processar: www.nevesinsurance.com
+2026-04-01 18:03:46,561 [INFO] crawler.page_navigator: [https://www.openseguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:03:46,568 [INFO] pipeline: ✓ www.openseguros.pt — 1 pág | sim=0.00 | form=0.05 | segs=0 | 4.6s
+2026-04-01 18:03:46,611 [INFO] pipeline: → A processar: www.riskseg-madeira.pt
+2026-04-01 18:03:46,754 [INFO] crawler.page_navigator: [https://www.alseguros.pt] 3 página(s) recolhidas.
+2026-04-01 18:03:46,893 [INFO] pipeline: ✓ www.alseguros.pt — 3 pág | sim=0.00 | form=0.10 | segs=1 | 121.6s
+2026-04-01 18:03:47,007 [INFO] pipeline: → A processar: www.sousamendes.pt
+2026-04-01 18:03:47,010 [WARNING] crawler.page_navigator: [https://www.riskseg-madeira.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.riskseg-madeira.pt/
+Call log:
+  - navigating to "https://www.riskseg-madeira.pt/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:03:48,044 [WARNING] crawler.page_navigator: [https://www.riskseg-madeira.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.riskseg-madeira.pt/
+Call log:
+  - navigating to "https://www.riskseg-madeira.pt/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:03:49,085 [WARNING] crawler.page_navigator: [https://www.riskseg-madeira.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.riskseg-madeira.pt/
+Call log:
+  - navigating to "https://www.riskseg-madeira.pt/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:03:49,088 [WARNING] pipeline: ✗ www.riskseg-madeira.pt: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.riskseg-madeira.pt/
+Call log:
+  - navigating to "https://www.riskseg-madeira.pt/", waiting until "domcontentloaded"
+
+2026-04-01 18:03:49,101 [INFO] pipeline: → A processar: www.smvseguros.pt
+2026-04-01 18:03:52,191 [INFO] crawler.page_navigator: [https://www.smvseguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:03:52,225 [INFO] pipeline: ✓ www.smvseguros.pt — 1 pág | sim=0.00 | form=0.75 | segs=0 | 3.1s
+2026-04-01 18:03:52,268 [INFO] pipeline: → A processar: www.luismarquesseguros.pt
+2026-04-01 18:03:53,541 [INFO] crawler.page_navigator: [https://www.esposeguros.com] 10 página(s) recolhidas.
+2026-04-01 18:03:54,219 [INFO] pipeline: ✓ www.esposeguros.com — 10 pág | sim=0.10 | form=1.00 | segs=6 | 19.5s
+2026-04-01 18:03:54,525 [INFO] pipeline: → A processar: www.gonzagaesantos.pt
+2026-04-01 18:03:54,951 [INFO] crawler.page_navigator: [https://www.linhamedieval.pt] 1 página(s) recolhidas.
+2026-04-01 18:03:55,052 [INFO] pipeline: ✓ www.linhamedieval.pt — 1 pág | sim=0.10 | form=1.00 | segs=11 | 19.8s
+2026-04-01 18:03:55,109 [INFO] pipeline: → A processar: www.jfmeireles.com
+2026-04-01 18:03:55,153 [INFO] crawler.page_navigator: [https://www.antral.pt] 3 página(s) recolhidas.
+2026-04-01 18:03:55,394 [INFO] pipeline: ✓ www.antral.pt — 3 pág | sim=0.00 | form=0.15 | segs=0 | 20.5s
+2026-04-01 18:03:55,488 [INFO] pipeline: → A processar: www.bis.pt
+2026-04-01 18:03:55,715 [WARNING] crawler.page_navigator: [https://www.bis.pt] Erro: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.bis.pt/
+Call log:
+  - navigating to "https://www.bis.pt/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:03:55,801 [WARNING] crawler.page_navigator: [https://www.jfmeireles.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.jfmeireles.com/
+Call log:
+  - navigating to "https://www.jfmeireles.com/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:03:56,794 [WARNING] crawler.page_navigator: [https://www.bis.pt] Erro: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.bis.pt/
+Call log:
+  - navigating to "https://www.bis.pt/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:03:56,890 [WARNING] crawler.page_navigator: [https://www.jfmeireles.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.jfmeireles.com/
+Call log:
+  - navigating to "https://www.jfmeireles.com/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:03:57,655 [INFO] crawler.page_navigator: [https://www.sergiomaldonado-seguros.pt] 5 página(s) recolhidas.
+2026-04-01 18:03:57,780 [INFO] pipeline: ✓ www.sergiomaldonado-seguros.pt — 5 pág | sim=0.10 | form=1.00 | segs=0 | 24.5s
+2026-04-01 18:03:57,917 [INFO] pipeline: → A processar: www.adrenalinaseguros.pt
+2026-04-01 18:03:57,948 [INFO] crawler.page_navigator: [https://crl-seguros.com] 11 página(s) recolhidas.
+2026-04-01 18:03:58,200 [INFO] pipeline: ✓ crl-seguros.com — 11 pág | sim=0.30 | form=0.75 | segs=0 | 38.3s
+2026-04-01 18:03:58,500 [INFO] pipeline: → A processar: www.alexandreseguros.pt
+2026-04-01 18:03:58,502 [WARNING] crawler.page_navigator: [https://www.bis.pt] Erro: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.bis.pt/
+Call log:
+  - navigating to "https://www.bis.pt/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:03:58,504 [WARNING] crawler.page_navigator: [https://www.jfmeireles.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.jfmeireles.com/
+Call log:
+  - navigating to "https://www.jfmeireles.com/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:03:58,514 [WARNING] pipeline: ✗ www.bis.pt: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.bis.pt/
+Call log:
+  - navigating to "https://www.bis.pt/", waiting until "domcontentloaded"
+
+2026-04-01 18:03:58,528 [INFO] pipeline: → A processar: www.fg-seguros.pt
+2026-04-01 18:03:58,532 [WARNING] pipeline: ✗ www.jfmeireles.com: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.jfmeireles.com/
+Call log:
+  - navigating to "https://www.jfmeireles.com/", waiting until "domcontentloaded"
+
+2026-04-01 18:03:58,544 [INFO] pipeline: → A processar: www.socalmed.pt
+2026-04-01 18:04:01,810 [INFO] crawler.page_navigator: [https://www.adrenalinaseguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:04:01,834 [INFO] pipeline: ✓ www.adrenalinaseguros.pt — 1 pág | sim=0.00 | form=0.10 | segs=0 | 3.9s
+2026-04-01 18:04:01,868 [INFO] pipeline: → A processar: www.abq-seguros.pt
+2026-04-01 18:04:02,803 [INFO] crawler.page_navigator: [https://www.diamantinoseguros.com] 4 página(s) recolhidas.
+2026-04-01 18:04:02,932 [INFO] pipeline: ✓ www.diamantinoseguros.com — 4 pág | sim=0.20 | form=1.00 | segs=3 | 23.8s
+2026-04-01 18:04:03,049 [INFO] pipeline: → A processar: www.motaseguros.com
+2026-04-01 18:04:03,713 [INFO] crawler.page_navigator: [https://www.fg-seguros.pt] 2 página(s) recolhidas.
+2026-04-01 18:04:03,794 [INFO] pipeline: ✓ www.fg-seguros.pt — 2 pág | sim=0.10 | form=0.65 | segs=1 | 5.3s
+2026-04-01 18:04:03,883 [INFO] pipeline: → A processar: www.telmacristina.pt
+2026-04-01 18:04:04,035 [INFO] crawler.page_navigator: [https://www.jsp-seguros.pt] 5 página(s) recolhidas.
+2026-04-01 18:04:04,530 [INFO] pipeline: ✓ www.jsp-seguros.pt — 5 pág | sim=0.10 | form=1.00 | segs=1 | 27.8s
+2026-04-01 18:04:04,704 [INFO] pipeline: → A processar: www.fontesseguros.com
+2026-04-01 18:04:09,039 [INFO] crawler.page_navigator: [https://www.socalmed.pt] 3 página(s) recolhidas.
+2026-04-01 18:04:09,997 [INFO] pipeline: ✓ www.socalmed.pt — 3 pág | sim=0.10 | form=0.80 | segs=5 | 11.5s
+2026-04-01 18:04:10,410 [INFO] pipeline: → A processar: www.seguefa.com
+2026-04-01 18:04:18,682 [INFO] crawler.page_navigator: [https://www.mac-seguros.pt] 6 página(s) recolhidas.
+2026-04-01 18:04:19,777 [INFO] pipeline: ✓ www.mac-seguros.pt — 6 pág | sim=0.10 | form=0.90 | segs=6 | 36.8s
+2026-04-01 18:04:20,089 [INFO] pipeline: → A processar: www.senhorinhoseguros.com
+2026-04-01 18:04:23,089 [INFO] crawler.page_navigator: [https://www.nevesinsurance.com] 1 página(s) recolhidas.
+2026-04-01 18:04:23,215 [INFO] pipeline: ✓ www.nevesinsurance.com — 1 pág | sim=0.10 | form=0.10 | segs=0 | 37.4s
+2026-04-01 18:04:23,308 [INFO] pipeline: → A processar: www.medimape.com
+2026-04-01 18:04:24,024 [INFO] crawler.page_navigator: [https://www.mudey.pt] 6 página(s) recolhidas.
+2026-04-01 18:04:25,730 [INFO] pipeline: ✓ www.mudey.pt — 6 pág | sim=0.20 | form=0.10 | segs=10 | 56.1s
+2026-04-01 18:04:26,127 [INFO] pipeline: → A processar: www.telmomoreira.pt
+2026-04-01 18:04:27,687 [INFO] crawler.page_navigator: [https://www.motaseguros.com] 1 página(s) recolhidas.
+2026-04-01 18:04:28,535 [INFO] pipeline: ✓ www.motaseguros.com — 1 pág | sim=0.50 | form=1.00 | segs=2 | 25.5s
+2026-04-01 18:04:28,668 [INFO] pipeline: → A processar: www.paulobarros-seg.pt
+2026-04-01 18:04:28,927 [WARNING] crawler.page_navigator: [https://www.telmomoreira.pt] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.telmomoreira.pt/
+Call log:
+  - navigating to "https://www.telmomoreira.pt/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:04:29,786 [INFO] crawler.page_navigator: [https://www.sousamendes.pt] 5 página(s) recolhidas.
+2026-04-01 18:04:30,455 [INFO] pipeline: ✓ www.sousamendes.pt — 5 pág | sim=0.10 | form=0.15 | segs=0 | 43.4s
+2026-04-01 18:04:30,723 [INFO] pipeline: → A processar: www.exatoseguros.pt
+2026-04-01 18:04:30,739 [INFO] crawler.page_navigator: [https://www.fidelidade.pt] 6 página(s) recolhidas.
+2026-04-01 18:04:33,685 [INFO] pipeline: ✓ www.fidelidade.pt — 6 pág | sim=0.50 | form=1.00 | segs=2 | 49.1s
+2026-04-01 18:04:34,015 [INFO] pipeline: → A processar: www.starconsulte.com
+2026-04-01 18:04:34,073 [WARNING] crawler.page_navigator: [https://www.telmomoreira.pt] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.telmomoreira.pt/
+Call log:
+  - navigating to "https://www.telmomoreira.pt/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:04:34,076 [INFO] crawler.page_navigator: [https://www.fontesseguros.com] 1 página(s) recolhidas.
+2026-04-01 18:04:34,908 [INFO] pipeline: ✓ www.fontesseguros.com — 1 pág | sim=0.20 | form=0.20 | segs=0 | 30.2s
+2026-04-01 18:04:35,042 [INFO] pipeline: → A processar: www.segurexpert.pt
+2026-04-01 18:04:35,953 [WARNING] crawler.page_navigator: [https://www.telmomoreira.pt] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.telmomoreira.pt/
+Call log:
+  - navigating to "https://www.telmomoreira.pt/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:04:35,984 [WARNING] pipeline: ✗ www.telmomoreira.pt: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.telmomoreira.pt/
+Call log:
+  - navigating to "https://www.telmomoreira.pt/", waiting until "domcontentloaded"
+
+2026-04-01 18:04:36,027 [INFO] pipeline: → A processar: www.segmed.pt
+2026-04-01 18:04:44,112 [INFO] crawler.page_navigator: [https://www.visar.pt] 5 página(s) recolhidas.
+2026-04-01 18:04:45,242 [INFO] pipeline: ✓ www.visar.pt — 5 pág | sim=0.10 | form=1.00 | segs=3 | 84.3s
+2026-04-01 18:04:45,604 [INFO] pipeline: → A processar: www.medipom.pt
+2026-04-01 18:04:54,863 [INFO] crawler.page_navigator: [https://www.menono.pt] 3 página(s) recolhidas.
+2026-04-01 18:04:55,978 [INFO] pipeline: ✓ www.menono.pt — 3 pág | sim=0.10 | form=1.00 | segs=5 | 90.3s
+2026-04-01 18:04:56,220 [INFO] pipeline: → A processar: www.jcferraz.com
+2026-04-01 18:04:56,473 [INFO] crawler.page_navigator: [https://www.gonzagaesantos.pt] 1 página(s) recolhidas.
+2026-04-01 18:04:56,756 [INFO] pipeline: ✓ www.gonzagaesantos.pt — 1 pág | sim=0.10 | form=0.75 | segs=1 | 62.2s
+2026-04-01 18:04:56,900 [INFO] pipeline: → A processar: www.lealseguros.com
+2026-04-01 18:05:03,733 [INFO] crawler.page_navigator: [https://www.luismarquesseguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:05:04,038 [INFO] pipeline: ✓ www.luismarquesseguros.pt — 1 pág | sim=0.10 | form=0.00 | segs=0 | 71.8s
+2026-04-01 18:05:04,171 [INFO] pipeline: → A processar: www.medimutuaseguros.com
+2026-04-01 18:05:05,617 [WARNING] crawler.page_navigator: [https://www.medimutuaseguros.com] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.medimutuaseguros.com/
+Call log:
+  - navigating to "https://www.medimutuaseguros.com/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:05:06,551 [INFO] crawler.page_navigator: [https://www.medimape.com] 1 página(s) recolhidas.
+2026-04-01 18:05:07,204 [INFO] pipeline: ✓ www.medimape.com — 1 pág | sim=0.50 | form=1.00 | segs=2 | 43.9s
+2026-04-01 18:05:07,553 [INFO] pipeline: → A processar: www.fidelidade.pt
+2026-04-01 18:05:09,251 [WARNING] crawler.page_navigator: [https://www.medimutuaseguros.com] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.medimutuaseguros.com/
+Call log:
+  - navigating to "https://www.medimutuaseguros.com/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:05:11,421 [WARNING] crawler.page_navigator: [https://www.medimutuaseguros.com] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.medimutuaseguros.com/
+Call log:
+  - navigating to "https://www.medimutuaseguros.com/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:05:11,465 [WARNING] pipeline: ✗ www.medimutuaseguros.com: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.medimutuaseguros.com/
+Call log:
+  - navigating to "https://www.medimutuaseguros.com/", waiting until "domcontentloaded"
+
+2026-04-01 18:05:11,493 [INFO] pipeline: → A processar: www.ajlseguros.pt
+2026-04-01 18:05:21,982 [INFO] crawler.page_navigator: [https://www.lealseguros.com] 1 página(s) recolhidas.
+2026-04-01 18:05:22,008 [INFO] pipeline: ✓ www.lealseguros.com — 1 pág | sim=0.00 | form=0.00 | segs=0 | 25.1s
+2026-04-01 18:05:22,124 [INFO] pipeline: → A processar: www.cabacamed.pt
+2026-04-01 18:05:23,617 [WARNING] crawler.page_navigator: [https://www.telmacristina.pt/seguros] Timeout (tentativa 1)
+2026-04-01 18:05:24,759 [WARNING] pipeline: ✗ www.cabacamed.pt: HTTP 403
+2026-04-01 18:05:24,810 [INFO] pipeline: → A processar: www.segurtei.pt
+2026-04-01 18:05:34,086 [INFO] crawler.page_navigator: [https://www.paulobarros-seg.pt] 10 página(s) recolhidas.
+2026-04-01 18:05:34,205 [INFO] pipeline: ✓ www.paulobarros-seg.pt — 10 pág | sim=0.00 | form=0.00 | segs=0 | 65.5s
+2026-04-01 18:05:35,039 [INFO] pipeline: → A processar: www.ajseg.pt
+2026-04-01 18:05:57,108 [INFO] crawler.page_navigator: [https://www.segurexpert.pt] 2 página(s) recolhidas.
+2026-04-01 18:05:57,438 [INFO] pipeline: ✓ www.segurexpert.pt — 2 pág | sim=0.20 | form=0.70 | segs=0 | 82.4s
+2026-04-01 18:05:57,669 [INFO] pipeline: → A processar: www.ajulio.pt
+2026-04-01 18:05:58,213 [INFO] crawler.page_navigator: [https://www.seguefa.com] 4 página(s) recolhidas.
+2026-04-01 18:05:58,323 [INFO] pipeline: ✓ www.seguefa.com — 4 pág | sim=0.00 | form=0.80 | segs=0 | 107.9s
+2026-04-01 18:05:58,416 [INFO] pipeline: → A processar: www.derseguros.pt
+2026-04-01 18:06:01,988 [INFO] crawler.page_navigator: [https://www.jcferraz.com] 3 página(s) recolhidas.
+2026-04-01 18:06:02,071 [INFO] pipeline: ✓ www.jcferraz.com — 3 pág | sim=0.00 | form=0.20 | segs=0 | 65.9s
+2026-04-01 18:06:02,141 [INFO] pipeline: → A processar: www.globoseguros.pt
+2026-04-01 18:06:03,902 [INFO] crawler.page_navigator: [https://www.ajulio.pt] 1 página(s) recolhidas.
+2026-04-01 18:06:03,936 [INFO] pipeline: ✓ www.ajulio.pt — 1 pág | sim=0.00 | form=1.00 | segs=0 | 6.3s
+2026-04-01 18:06:03,981 [INFO] pipeline: → A processar: www.gestaodeseguros.com
+2026-04-01 18:06:07,263 [INFO] crawler.page_navigator: [https://www.abq-seguros.pt] 8 página(s) recolhidas.
+2026-04-01 18:06:07,395 [INFO] pipeline: ✓ www.abq-seguros.pt — 8 pág | sim=0.00 | form=0.80 | segs=7 | 125.5s
+2026-04-01 18:06:07,610 [INFO] pipeline: → A processar: www.luisagudo.pt
+2026-04-01 18:06:07,652 [INFO] crawler.page_navigator: [https://www.medipom.pt] 2 página(s) recolhidas.
+2026-04-01 18:06:07,694 [INFO] pipeline: ✓ www.medipom.pt — 2 pág | sim=0.00 | form=1.00 | segs=0 | 82.1s
+2026-04-01 18:06:07,766 [INFO] pipeline: → A processar: www.segsil.com
+2026-04-01 18:06:07,876 [WARNING] crawler.page_navigator: [https://www.luisagudo.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.luisagudo.pt/
+Call log:
+  - navigating to "https://www.luisagudo.pt/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:06:08,052 [WARNING] crawler.page_navigator: [https://www.segsil.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.segsil.com/
+Call log:
+  - navigating to "https://www.segsil.com/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:06:08,312 [INFO] crawler.page_navigator: [https://www.telmacristina.pt] 3 página(s) recolhidas.
+2026-04-01 18:06:08,357 [INFO] pipeline: ✓ www.telmacristina.pt — 3 pág | sim=0.10 | form=0.10 | segs=5 | 124.5s
+2026-04-01 18:06:08,450 [INFO] pipeline: → A processar: www.portugalseguro.pt
+2026-04-01 18:06:08,766 [INFO] crawler.page_navigator: [https://www.ajlseguros.pt] 4 página(s) recolhidas.
+2026-04-01 18:06:08,914 [INFO] pipeline: ✓ www.ajlseguros.pt — 4 pág | sim=0.00 | form=1.00 | segs=2 | 57.4s
+2026-04-01 18:06:08,997 [INFO] pipeline: → A processar: www.mase-seguros.com
+2026-04-01 18:06:09,016 [WARNING] crawler.page_navigator: [https://www.luisagudo.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.luisagudo.pt/
+Call log:
+  - navigating to "https://www.luisagudo.pt/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:06:09,094 [INFO] crawler.page_navigator: [https://www.globoseguros.pt] 3 página(s) recolhidas.
+2026-04-01 18:06:09,126 [INFO] pipeline: ✓ www.globoseguros.pt — 3 pág | sim=0.00 | form=0.00 | segs=0 | 7.0s
+2026-04-01 18:06:09,182 [INFO] pipeline: → A processar: www.valterpaivaseguros.pt
+2026-04-01 18:06:09,183 [WARNING] crawler.page_navigator: [https://www.segsil.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.segsil.com/
+Call log:
+  - navigating to "https://www.segsil.com/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:06:09,388 [WARNING] crawler.page_navigator: [https://www.valterpaivaseguros.pt] Erro: Page.goto: net::ERR_CERT_DATE_INVALID at https://www.valterpaivaseguros.pt/
+Call log:
+  - navigating to "https://www.valterpaivaseguros.pt/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:06:09,617 [INFO] crawler.page_navigator: [https://www.segmed.pt] 6 página(s) recolhidas.
+2026-04-01 18:06:09,853 [INFO] pipeline: ✓ www.segmed.pt — 6 pág | sim=0.10 | form=0.80 | segs=0 | 93.8s
+2026-04-01 18:06:10,007 [INFO] pipeline: → A processar: www.prevencao.pt
+2026-04-01 18:06:10,034 [WARNING] crawler.page_navigator: [https://www.luisagudo.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.luisagudo.pt/
+Call log:
+  - navigating to "https://www.luisagudo.pt/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:06:10,042 [WARNING] pipeline: ✗ www.luisagudo.pt: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.luisagudo.pt/
+Call log:
+  - navigating to "https://www.luisagudo.pt/", waiting until "domcontentloaded"
+
+2026-04-01 18:06:10,056 [INFO] pipeline: → A processar: www.luisborgesseguros.pt
+2026-04-01 18:06:10,242 [WARNING] crawler.page_navigator: [https://www.segsil.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.segsil.com/
+Call log:
+  - navigating to "https://www.segsil.com/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:06:10,247 [WARNING] pipeline: ✗ www.segsil.com: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.segsil.com/
+Call log:
+  - navigating to "https://www.segsil.com/", waiting until "domcontentloaded"
+
+2026-04-01 18:06:10,264 [INFO] pipeline: → A processar: www.agenciaandrade.com
+2026-04-01 18:06:10,446 [WARNING] crawler.page_navigator: [https://www.valterpaivaseguros.pt] Erro: Page.goto: net::ERR_CERT_DATE_INVALID at https://www.valterpaivaseguros.pt/
+Call log:
+  - navigating to "https://www.valterpaivaseguros.pt/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:06:10,472 [WARNING] crawler.page_navigator: [https://www.agenciaandrade.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.agenciaandrade.com/
+Call log:
+  - navigating to "https://www.agenciaandrade.com/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:06:11,512 [WARNING] crawler.page_navigator: [https://www.valterpaivaseguros.pt] Erro: Page.goto: net::ERR_CERT_DATE_INVALID at https://www.valterpaivaseguros.pt/
+Call log:
+  - navigating to "https://www.valterpaivaseguros.pt/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:06:11,517 [WARNING] pipeline: ✗ www.valterpaivaseguros.pt: Page.goto: net::ERR_CERT_DATE_INVALID at https://www.valterpaivaseguros.pt/
+Call log:
+  - navigating to "https://www.valterpaivaseguros.pt/", waiting until "domcontentloaded"
+
+2026-04-01 18:06:11,531 [INFO] pipeline: → A processar: www.universeguros.pt
+2026-04-01 18:06:11,550 [WARNING] crawler.page_navigator: [https://www.agenciaandrade.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.agenciaandrade.com/
+Call log:
+  - navigating to "https://www.agenciaandrade.com/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:06:12,624 [WARNING] crawler.page_navigator: [https://www.agenciaandrade.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.agenciaandrade.com/
+Call log:
+  - navigating to "https://www.agenciaandrade.com/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:06:12,628 [WARNING] pipeline: ✗ www.agenciaandrade.com: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.agenciaandrade.com/
+Call log:
+  - navigating to "https://www.agenciaandrade.com/", waiting until "domcontentloaded"
+
+2026-04-01 18:06:12,641 [INFO] pipeline: → A processar: www.albuquerque.pt
+2026-04-01 18:06:13,494 [INFO] crawler.page_navigator: [https://www.alexandreseguros.pt] 5 página(s) recolhidas.
+2026-04-01 18:06:13,756 [INFO] pipeline: ✓ www.alexandreseguros.pt — 5 pág | sim=0.20 | form=0.80 | segs=6 | 135.3s
+2026-04-01 18:06:13,890 [INFO] pipeline: → A processar: www.ms-seguros.pt
+2026-04-01 18:06:15,970 [INFO] crawler.page_navigator: [https://www.fidelidade.pt] 6 página(s) recolhidas.
+2026-04-01 18:06:16,394 [INFO] pipeline: ✓ www.fidelidade.pt — 6 pág | sim=0.50 | form=1.00 | segs=2 | 68.8s
+2026-04-01 18:06:16,549 [INFO] pipeline: → A processar: www.beiradinamica.pt
+2026-04-01 18:06:16,940 [INFO] crawler.page_navigator: [https://www.exatoseguros.pt] 5 página(s) recolhidas.
+2026-04-01 18:06:17,195 [INFO] pipeline: ✓ www.exatoseguros.pt — 5 pág | sim=0.00 | form=1.00 | segs=5 | 106.5s
+2026-04-01 18:06:17,317 [INFO] pipeline: → A processar: www.seguramente.pt
+2026-04-01 18:06:17,328 [WARNING] crawler.page_navigator: [https://www.beiradinamica.pt] Erro: Page.goto: net::ERR_CONNECTION_RESET at https://www.beiradinamica.pt/
+Call log:
+  - navigating to "https://www.beiradinamica.pt/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:06:18,045 [INFO] crawler.page_navigator: [https://www.starconsulte.com] 3 página(s) recolhidas.
+2026-04-01 18:06:18,150 [INFO] pipeline: ✓ www.starconsulte.com — 3 pág | sim=0.10 | form=0.80 | segs=0 | 104.1s
+2026-04-01 18:06:18,229 [INFO] pipeline: → A processar: www.mpragosa-seguros.pt
+2026-04-01 18:06:18,430 [WARNING] crawler.page_navigator: [https://www.beiradinamica.pt] Erro: Page.goto: net::ERR_CONNECTION_RESET at https://www.beiradinamica.pt/
+Call log:
+  - navigating to "https://www.beiradinamica.pt/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:06:19,605 [WARNING] crawler.page_navigator: [https://www.beiradinamica.pt] Erro: Page.goto: net::ERR_CONNECTION_RESET at https://www.beiradinamica.pt/
+Call log:
+  - navigating to "https://www.beiradinamica.pt/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:06:19,609 [WARNING] pipeline: ✗ www.beiradinamica.pt: Page.goto: net::ERR_CONNECTION_RESET at https://www.beiradinamica.pt/
+Call log:
+  - navigating to "https://www.beiradinamica.pt/", waiting until "domcontentloaded"
+
+2026-04-01 18:06:19,625 [INFO] pipeline: → A processar: www.fidelidade.pt
+2026-04-01 18:06:23,351 [INFO] crawler.page_navigator: [https://www.gestaodeseguros.com] 3 página(s) recolhidas.
+2026-04-01 18:06:23,489 [INFO] pipeline: ✓ www.gestaodeseguros.com — 3 pág | sim=0.00 | form=0.10 | segs=0 | 19.5s
+2026-04-01 18:06:23,537 [INFO] pipeline: → A processar: www.dioseguros.com
+2026-04-01 18:06:26,627 [INFO] crawler.page_navigator: [https://www.albuquerque.pt] 3 página(s) recolhidas.
+2026-04-01 18:06:26,687 [INFO] pipeline: ✓ www.albuquerque.pt — 3 pág | sim=0.00 | form=0.80 | segs=0 | 14.0s
+2026-04-01 18:06:26,764 [INFO] pipeline: → A processar: www.normiconta.pt
+2026-04-01 18:06:27,396 [INFO] crawler.page_navigator: [https://www.senhorinhoseguros.com] 7 página(s) recolhidas.
+2026-04-01 18:06:27,760 [INFO] pipeline: ✓ www.senhorinhoseguros.com — 7 pág | sim=0.10 | form=0.80 | segs=1 | 127.7s
+2026-04-01 18:06:28,025 [INFO] pipeline: → A processar: www.gms-seguros.com
+2026-04-01 18:06:29,777 [INFO] crawler.page_navigator: [https://www.segurtei.pt] 6 página(s) recolhidas.
+2026-04-01 18:06:29,895 [INFO] pipeline: ✓ www.segurtei.pt — 6 pág | sim=0.10 | form=0.95 | segs=7 | 65.1s
+2026-04-01 18:06:30,075 [INFO] pipeline: → A processar: azimute.co.pt
+2026-04-01 18:06:31,713 [INFO] crawler.page_navigator: [https://www.mpragosa-seguros.pt] 4 página(s) recolhidas.
+2026-04-01 18:06:31,775 [INFO] pipeline: ✓ www.mpragosa-seguros.pt — 4 pág | sim=0.10 | form=1.00 | segs=3 | 13.5s
+2026-04-01 18:06:31,860 [INFO] pipeline: → A processar: www.machadouni.pt
+2026-04-01 18:06:32,091 [INFO] crawler.page_navigator: [https://azimute.co.pt] 1 página(s) recolhidas.
+2026-04-01 18:06:32,096 [INFO] pipeline: ✓ azimute.co.pt — 1 pág | sim=0.00 | form=0.00 | segs=0 | 2.0s
+2026-04-01 18:06:32,120 [INFO] pipeline: → A processar: www.salina.pt
+2026-04-01 18:06:32,260 [WARNING] crawler.page_navigator: [https://www.machadouni.pt] Erro: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.machadouni.pt/
+Call log:
+  - navigating to "https://www.machadouni.pt/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:06:33,560 [WARNING] crawler.page_navigator: [https://www.machadouni.pt] Erro: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.machadouni.pt/
+Call log:
+  - navigating to "https://www.machadouni.pt/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:06:34,230 [WARNING] crawler.page_navigator: [https://www.salina.pt] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.salina.pt/
+Call log:
+  - navigating to "https://www.salina.pt/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:06:34,912 [WARNING] crawler.page_navigator: [https://www.machadouni.pt] Erro: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.machadouni.pt/
+Call log:
+  - navigating to "https://www.machadouni.pt/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:06:34,915 [WARNING] pipeline: ✗ www.machadouni.pt: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.machadouni.pt/
+Call log:
+  - navigating to "https://www.machadouni.pt/", waiting until "domcontentloaded"
+
+2026-04-01 18:06:34,928 [INFO] pipeline: → A processar: www.gomesseg.pt
+2026-04-01 18:06:35,585 [WARNING] crawler.page_navigator: [https://www.salina.pt] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.salina.pt/
+Call log:
+  - navigating to "https://www.salina.pt/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:06:35,807 [INFO] crawler.page_navigator: [https://www.mase-seguros.com] 1 página(s) recolhidas.
+2026-04-01 18:06:35,881 [INFO] pipeline: ✓ www.mase-seguros.com — 1 pág | sim=0.00 | form=0.10 | segs=0 | 26.9s
+2026-04-01 18:06:35,919 [INFO] pipeline: → A processar: www.lya-seguros.com
+2026-04-01 18:06:36,081 [WARNING] crawler.page_navigator: [https://www.lya-seguros.com] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.lya-seguros.com/
+Call log:
+  - navigating to "https://www.lya-seguros.com/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:06:36,807 [WARNING] crawler.page_navigator: [https://www.salina.pt] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.salina.pt/
+Call log:
+  - navigating to "https://www.salina.pt/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:06:36,810 [WARNING] pipeline: ✗ www.salina.pt: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.salina.pt/
+Call log:
+  - navigating to "https://www.salina.pt/", waiting until "domcontentloaded"
+
+2026-04-01 18:06:36,827 [INFO] pipeline: → A processar: www.segurosmarques.com
+2026-04-01 18:06:37,056 [INFO] crawler.page_navigator: [https://www.normiconta.pt] 1 página(s) recolhidas.
+2026-04-01 18:06:37,087 [INFO] pipeline: ✓ www.normiconta.pt — 1 pág | sim=0.00 | form=0.05 | segs=0 | 10.3s
+2026-04-01 18:06:37,117 [INFO] pipeline: → A processar: www.alimarseguros.com
+2026-04-01 18:06:37,177 [WARNING] crawler.page_navigator: [https://www.lya-seguros.com] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.lya-seguros.com/
+Call log:
+  - navigating to "https://www.lya-seguros.com/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:06:37,228 [WARNING] crawler.page_navigator: [https://www.segurosmarques.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.segurosmarques.com/
+Call log:
+  - navigating to "https://www.segurosmarques.com/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:06:38,189 [WARNING] crawler.page_navigator: [https://www.lya-seguros.com] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.lya-seguros.com/
+Call log:
+  - navigating to "https://www.lya-seguros.com/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:06:38,196 [WARNING] pipeline: ✗ www.lya-seguros.com: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.lya-seguros.com/
+Call log:
+  - navigating to "https://www.lya-seguros.com/", waiting until "domcontentloaded"
+
+2026-04-01 18:06:38,211 [INFO] pipeline: → A processar: www.ots.pt
+2026-04-01 18:06:38,341 [WARNING] crawler.page_navigator: [https://www.segurosmarques.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.segurosmarques.com/
+Call log:
+  - navigating to "https://www.segurosmarques.com/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:06:39,442 [WARNING] crawler.page_navigator: [https://www.segurosmarques.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.segurosmarques.com/
+Call log:
+  - navigating to "https://www.segurosmarques.com/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:06:39,444 [WARNING] pipeline: ✗ www.segurosmarques.com: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.segurosmarques.com/
+Call log:
+  - navigating to "https://www.segurosmarques.com/", waiting until "domcontentloaded"
+
+2026-04-01 18:06:39,459 [INFO] pipeline: → A processar: www.jdoisj.pt
+2026-04-01 18:06:40,681 [INFO] crawler.page_navigator: [https://www.seguramente.pt] 8 página(s) recolhidas.
+2026-04-01 18:06:40,891 [INFO] pipeline: ✓ www.seguramente.pt — 8 pág | sim=0.80 | form=1.00 | segs=0 | 23.6s
+2026-04-01 18:06:41,115 [INFO] pipeline: → A processar: www.figueiranegocios.com
+2026-04-01 18:06:41,794 [INFO] crawler.page_navigator: [https://www.universeguros.pt] 5 página(s) recolhidas.
+2026-04-01 18:06:42,012 [INFO] pipeline: ✓ www.universeguros.pt — 5 pág | sim=0.10 | form=0.60 | segs=16 | 30.5s
+2026-04-01 18:06:42,148 [INFO] pipeline: → A processar: www.scalis.pt
+2026-04-01 18:06:42,687 [INFO] crawler.page_navigator: [https://www.gomesseg.pt] 3 página(s) recolhidas.
+2026-04-01 18:06:42,718 [INFO] pipeline: ✓ www.gomesseg.pt — 3 pág | sim=0.00 | form=0.95 | segs=1 | 7.8s
+2026-04-01 18:06:42,787 [INFO] pipeline: → A processar: www.spotseguros.pt
+2026-04-01 18:06:43,332 [INFO] crawler.page_navigator: [https://www.gms-seguros.com] 5 página(s) recolhidas.
+2026-04-01 18:06:43,385 [INFO] pipeline: ✓ www.gms-seguros.com — 5 pág | sim=0.00 | form=0.75 | segs=5 | 15.4s
+2026-04-01 18:06:43,493 [INFO] pipeline: → A processar: www.evolucaosegura.com
+2026-04-01 18:06:46,138 [INFO] crawler.page_navigator: [https://www.jdoisj.pt] 1 página(s) recolhidas.
+2026-04-01 18:06:46,146 [INFO] pipeline: ✓ www.jdoisj.pt — 1 pág | sim=0.00 | form=0.15 | segs=0 | 6.7s
+2026-04-01 18:06:46,173 [INFO] pipeline: → A processar: www.diescertus.pt
+2026-04-01 18:06:46,175 [INFO] crawler.page_navigator: [https://www.figueiranegocios.com] 1 página(s) recolhidas.
+2026-04-01 18:06:46,177 [INFO] crawler.page_navigator: [https://www.spotseguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:06:46,181 [INFO] pipeline: ✓ www.figueiranegocios.com — 1 pág | sim=0.00 | form=0.00 | segs=0 | 5.1s
+2026-04-01 18:06:46,208 [INFO] pipeline: → A processar: www.hisonia.com
+2026-04-01 18:06:46,213 [INFO] pipeline: ✓ www.spotseguros.pt — 1 pág | sim=0.00 | form=0.00 | segs=0 | 3.4s
+2026-04-01 18:06:46,240 [INFO] pipeline: → A processar: www.luismoraisseguros.pt
+2026-04-01 18:06:46,275 [INFO] crawler.page_navigator: [https://www.fidelidade.pt] 6 página(s) recolhidas.
+2026-04-01 18:06:46,795 [INFO] pipeline: ✓ www.fidelidade.pt — 6 pág | sim=0.50 | form=1.00 | segs=2 | 27.2s
+2026-04-01 18:06:46,979 [INFO] pipeline: → A processar: www.carlosnoronha.pt
+2026-04-01 18:06:47,010 [INFO] crawler.page_navigator: [https://www.ots.pt] 4 página(s) recolhidas.
+2026-04-01 18:06:47,033 [INFO] pipeline: ✓ www.ots.pt — 4 pág | sim=0.00 | form=0.05 | segs=0 | 8.8s
+2026-04-01 18:06:47,104 [INFO] pipeline: → A processar: www.joaosaraiva.com.pt
+2026-04-01 18:06:47,535 [INFO] crawler.page_navigator: [https://www.luisborgesseguros.pt] 3 página(s) recolhidas.
+2026-04-01 18:06:47,749 [INFO] pipeline: ✓ www.luisborgesseguros.pt — 3 pág | sim=0.00 | form=0.80 | segs=13 | 37.7s
+2026-04-01 18:06:47,864 [INFO] pipeline: → A processar: www.amartinsdasilva.pt
+2026-04-01 18:06:47,901 [INFO] crawler.page_navigator: [https://www.ajseg.pt] 8 página(s) recolhidas.
+2026-04-01 18:06:48,182 [INFO] pipeline: ✓ www.ajseg.pt — 8 pág | sim=0.30 | form=1.00 | segs=6 | 73.1s
+2026-04-01 18:06:48,424 [INFO] pipeline: → A processar: www.entreparentes.pt
+2026-04-01 18:06:48,505 [INFO] crawler.page_navigator: [https://www.prevencao.pt] 3 página(s) recolhidas.
+2026-04-01 18:06:48,675 [INFO] pipeline: ✓ www.prevencao.pt — 3 pág | sim=0.20 | form=1.00 | segs=8 | 38.7s
+2026-04-01 18:06:48,785 [INFO] pipeline: → A processar: www.bisposeguros.pt
+2026-04-01 18:06:49,236 [WARNING] crawler.page_navigator: [https://www.bisposeguros.pt] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.bisposeguros.pt/
+Call log:
+  - navigating to "https://www.bisposeguros.pt/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:06:50,338 [WARNING] crawler.page_navigator: [https://www.bisposeguros.pt] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.bisposeguros.pt/
+Call log:
+  - navigating to "https://www.bisposeguros.pt/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:06:51,433 [WARNING] crawler.page_navigator: [https://www.bisposeguros.pt] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.bisposeguros.pt/
+Call log:
+  - navigating to "https://www.bisposeguros.pt/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:06:51,438 [WARNING] pipeline: ✗ www.bisposeguros.pt: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.bisposeguros.pt/
+Call log:
+  - navigating to "https://www.bisposeguros.pt/", waiting until "domcontentloaded"
+
+2026-04-01 18:06:51,451 [INFO] pipeline: → A processar: www.jpsseguros.com
+2026-04-01 18:06:53,305 [INFO] crawler.page_navigator: [https://www.amartinsdasilva.pt] 2 página(s) recolhidas.
+2026-04-01 18:06:53,340 [INFO] pipeline: ✓ www.amartinsdasilva.pt — 2 pág | sim=0.10 | form=0.10 | segs=0 | 5.5s
+2026-04-01 18:06:53,394 [INFO] pipeline: → A processar: www.gameiroseguros.pt
+2026-04-01 18:06:54,362 [INFO] crawler.page_navigator: [https://www.alimarseguros.com] 5 página(s) recolhidas.
+2026-04-01 18:06:54,532 [INFO] pipeline: ✓ www.alimarseguros.com — 5 pág | sim=0.00 | form=1.00 | segs=11 | 17.4s
+2026-04-01 18:06:54,635 [INFO] pipeline: → A processar: www.hernaniseguros.com
+2026-04-01 18:06:54,863 [INFO] crawler.page_navigator: [https://www.diescertus.pt] 4 página(s) recolhidas.
+2026-04-01 18:06:54,889 [INFO] pipeline: ✓ www.diescertus.pt — 4 pág | sim=0.00 | form=0.35 | segs=0 | 8.7s
+2026-04-01 18:06:54,987 [INFO] pipeline: → A processar: www.septor.pt
+2026-04-01 18:06:55,860 [INFO] crawler.page_navigator: [https://www.entreparentes.pt] 3 página(s) recolhidas.
+2026-04-01 18:06:55,879 [INFO] pipeline: ✓ www.entreparentes.pt — 3 pág | sim=0.00 | form=0.10 | segs=5 | 7.5s
+2026-04-01 18:06:55,964 [INFO] pipeline: → A processar: www.gapeval.pt
+2026-04-01 18:06:59,044 [INFO] crawler.page_navigator: [https://www.jpsseguros.com] 1 página(s) recolhidas.
+2026-04-01 18:06:59,060 [INFO] pipeline: ✓ www.jpsseguros.com — 1 pág | sim=0.10 | form=0.00 | segs=3 | 7.6s
+2026-04-01 18:06:59,120 [INFO] pipeline: → A processar: www.ahdl.pt
+2026-04-01 18:07:03,204 [INFO] crawler.page_navigator: [https://www.derseguros.pt] 10 página(s) recolhidas.
+2026-04-01 18:07:03,318 [INFO] pipeline: ✓ www.derseguros.pt — 10 pág | sim=0.00 | form=0.00 | segs=0 | 64.9s
+2026-04-01 18:07:03,492 [INFO] pipeline: → A processar: www.carlos-seguros.pt
+2026-04-01 18:07:03,665 [INFO] crawler.page_navigator: [https://www.portugalseguro.pt] 3 página(s) recolhidas.
+2026-04-01 18:07:03,829 [INFO] pipeline: ✓ www.portugalseguro.pt — 3 pág | sim=0.00 | form=0.95 | segs=1 | 55.4s
+2026-04-01 18:07:03,932 [INFO] pipeline: → A processar: www.sigma-seguros.eu
+2026-04-01 18:07:04,686 [INFO] crawler.page_navigator: [https://www.hernaniseguros.com] 5 página(s) recolhidas.
+2026-04-01 18:07:04,877 [INFO] pipeline: ✓ www.hernaniseguros.com — 5 pág | sim=0.00 | form=0.05 | segs=3 | 10.2s
+2026-04-01 18:07:05,001 [INFO] pipeline: → A processar: www.conceiseguros.pt
+2026-04-01 18:07:05,738 [INFO] crawler.page_navigator: [https://www.evolucaosegura.com] 3 página(s) recolhidas.
+2026-04-01 18:07:06,073 [INFO] pipeline: ✓ www.evolucaosegura.com — 3 pág | sim=0.00 | form=0.80 | segs=3 | 22.6s
+2026-04-01 18:07:06,190 [INFO] pipeline: → A processar: www.fonsecaseguros.com
+2026-04-01 18:07:10,230 [INFO] crawler.page_navigator: [https://www.carlos-seguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:07:10,308 [INFO] pipeline: ✓ www.carlos-seguros.pt — 1 pág | sim=0.00 | form=1.00 | segs=0 | 6.8s
+2026-04-01 18:07:10,376 [INFO] pipeline: → A processar: www.adicionalseguros.com
+2026-04-01 18:07:16,049 [INFO] crawler.page_navigator: [https://www.dioseguros.com] 4 página(s) recolhidas.
+2026-04-01 18:07:16,123 [INFO] pipeline: ✓ www.dioseguros.com — 4 pág | sim=0.00 | form=0.75 | segs=0 | 52.6s
+2026-04-01 18:07:16,247 [INFO] pipeline: → A processar: www.marcalseguros.com
+2026-04-01 18:07:16,632 [WARNING] crawler.page_navigator: [https://www.marcalseguros.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.marcalseguros.com/
+Call log:
+  - navigating to "https://www.marcalseguros.com/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:07:16,825 [INFO] crawler.page_navigator: [https://www.gapeval.pt] 12 página(s) recolhidas.
+2026-04-01 18:07:17,363 [INFO] pipeline: ✓ www.gapeval.pt — 12 pág | sim=0.10 | form=1.00 | segs=1 | 21.4s
+2026-04-01 18:07:17,659 [INFO] pipeline: → A processar: www.segurosdomira.pt
+2026-04-01 18:07:17,687 [INFO] crawler.page_navigator: [https://www.ms-seguros.pt] 11 página(s) recolhidas.
+2026-04-01 18:07:17,947 [INFO] pipeline: ✓ www.ms-seguros.pt — 11 pág | sim=0.10 | form=1.00 | segs=7 | 64.1s
+2026-04-01 18:07:18,250 [INFO] pipeline: → A processar: www.oliveconta.com
+2026-04-01 18:07:18,259 [WARNING] crawler.page_navigator: [https://www.marcalseguros.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.marcalseguros.com/
+Call log:
+  - navigating to "https://www.marcalseguros.com/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:07:19,532 [WARNING] crawler.page_navigator: [https://www.marcalseguros.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.marcalseguros.com/
+Call log:
+  - navigating to "https://www.marcalseguros.com/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:07:19,536 [WARNING] pipeline: ✗ www.marcalseguros.com: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.marcalseguros.com/
+Call log:
+  - navigating to "https://www.marcalseguros.com/", waiting until "domcontentloaded"
+
+2026-04-01 18:07:19,552 [INFO] pipeline: → A processar: www.segurosmais.pt
+2026-04-01 18:07:20,998 [INFO] crawler.page_navigator: [https://www.sigma-seguros.eu] 1 página(s) recolhidas.
+2026-04-01 18:07:21,031 [INFO] pipeline: ✓ www.sigma-seguros.eu — 1 pág | sim=0.00 | form=0.05 | segs=0 | 17.1s
+2026-04-01 18:07:21,063 [INFO] pipeline: → A processar: www.etseguros.com
+2026-04-01 18:07:25,801 [INFO] crawler.page_navigator: [https://www.segurosdomira.pt] 4 página(s) recolhidas.
+2026-04-01 18:07:25,852 [INFO] pipeline: ✓ www.segurosdomira.pt — 4 pág | sim=0.00 | form=1.00 | segs=1 | 8.2s
+2026-04-01 18:07:25,940 [INFO] pipeline: → A processar: www.estevesseguros.pt
+2026-04-01 18:07:29,587 [INFO] crawler.page_navigator: [https://www.joaosaraiva.com.pt] 10 página(s) recolhidas.
+2026-04-01 18:07:30,068 [INFO] pipeline: ✓ www.joaosaraiva.com.pt — 10 pág | sim=0.00 | form=0.15 | segs=14 | 43.0s
+2026-04-01 18:07:30,378 [INFO] pipeline: → A processar: roq-seguros.pt
+2026-04-01 18:07:30,533 [WARNING] crawler.page_navigator: [https://roq-seguros.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://roq-seguros.pt/
+Call log:
+  - navigating to "https://roq-seguros.pt/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:07:30,822 [INFO] crawler.page_navigator: [https://www.scalis.pt] 6 página(s) recolhidas.
+2026-04-01 18:07:31,116 [INFO] pipeline: ✓ www.scalis.pt — 6 pág | sim=0.10 | form=0.80 | segs=11 | 49.0s
+2026-04-01 18:07:31,312 [INFO] pipeline: → A processar: www.arturgarcia.pt
+2026-04-01 18:07:31,549 [WARNING] crawler.page_navigator: [https://roq-seguros.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://roq-seguros.pt/
+Call log:
+  - navigating to "https://roq-seguros.pt/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:07:32,578 [WARNING] crawler.page_navigator: [https://roq-seguros.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://roq-seguros.pt/
+Call log:
+  - navigating to "https://roq-seguros.pt/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:07:32,581 [WARNING] pipeline: ✗ roq-seguros.pt: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://roq-seguros.pt/
+Call log:
+  - navigating to "https://roq-seguros.pt/", waiting until "domcontentloaded"
+
+2026-04-01 18:07:32,593 [INFO] pipeline: → A processar: www.gncseguros.com
+2026-04-01 18:07:33,319 [INFO] crawler.page_navigator: [https://www.ahdl.pt] 9 página(s) recolhidas.
+2026-04-01 18:07:33,552 [INFO] pipeline: ✓ www.ahdl.pt — 9 pág | sim=0.20 | form=0.10 | segs=2 | 34.4s
+2026-04-01 18:07:33,871 [INFO] pipeline: → A processar: www.senhorinhoseguros.com
+2026-04-01 18:07:34,387 [INFO] crawler.page_navigator: [https://www.gncseguros.com] 1 página(s) recolhidas.
+2026-04-01 18:07:34,392 [INFO] pipeline: ✓ www.gncseguros.com — 1 pág | sim=0.00 | form=0.00 | segs=0 | 1.8s
+2026-04-01 18:07:34,421 [INFO] pipeline: → A processar: www.daviseguros.pt
+2026-04-01 18:07:34,449 [INFO] crawler.page_navigator: [https://www.estevesseguros.pt] 5 página(s) recolhidas.
+2026-04-01 18:07:34,451 [INFO] crawler.page_navigator: [https://www.septor.pt] 7 página(s) recolhidas.
+2026-04-01 18:07:34,486 [INFO] pipeline: ✓ www.estevesseguros.pt — 5 pág | sim=0.00 | form=1.00 | segs=3 | 8.5s
+2026-04-01 18:07:34,591 [INFO] pipeline: → A processar: www.mcbrseguros.pt
+2026-04-01 18:07:34,857 [INFO] pipeline: ✓ www.septor.pt — 7 pág | sim=0.60 | form=0.20 | segs=2 | 39.9s
+2026-04-01 18:07:35,072 [INFO] pipeline: → A processar: www.docauto.com.pt
+2026-04-01 18:07:35,633 [INFO] crawler.page_navigator: [https://www.conceiseguros.pt] 4 página(s) recolhidas.
+2026-04-01 18:07:35,635 [INFO] crawler.page_navigator: [https://www.oliveconta.com] 5 página(s) recolhidas.
+2026-04-01 18:07:35,705 [INFO] pipeline: ✓ www.conceiseguros.pt — 4 pág | sim=0.00 | form=0.05 | segs=0 | 30.7s
+2026-04-01 18:07:35,770 [INFO] pipeline: → A processar: www.joaoverissimoimobiliaria.pt
+2026-04-01 18:07:35,824 [INFO] pipeline: ✓ www.oliveconta.com — 5 pág | sim=0.30 | form=0.70 | segs=5 | 17.6s
+2026-04-01 18:07:35,972 [INFO] pipeline: → A processar: hurigo.allianz.pt
+2026-04-01 18:07:36,369 [INFO] crawler.page_navigator: [https://www.luismoraisseguros.pt] 6 página(s) recolhidas.
+2026-04-01 18:07:36,552 [INFO] pipeline: ✓ www.luismoraisseguros.pt — 6 pág | sim=0.40 | form=0.95 | segs=2 | 50.3s
+2026-04-01 18:07:36,738 [INFO] pipeline: → A processar: www.fafeseguros.pt
+2026-04-01 18:07:36,787 [INFO] crawler.page_navigator: [https://www.fonsecaseguros.com] 3 página(s) recolhidas.
+2026-04-01 18:07:36,855 [INFO] pipeline: ✓ www.fonsecaseguros.com — 3 pág | sim=0.00 | form=1.00 | segs=3 | 30.7s
+2026-04-01 18:07:36,948 [INFO] pipeline: → A processar: www.asl-sn.pt
+2026-04-01 18:07:39,128 [INFO] crawler.page_navigator: [https://www.docauto.com.pt] 2 página(s) recolhidas.
+2026-04-01 18:07:39,139 [INFO] pipeline: ✓ www.docauto.com.pt — 2 pág | sim=0.10 | form=0.20 | segs=0 | 4.1s
+2026-04-01 18:07:39,192 [INFO] pipeline: → A processar: www.marianaalmeidaseguros.pt
+2026-04-01 18:07:39,269 [INFO] crawler.page_navigator: [https://www.gameiroseguros.pt] 7 página(s) recolhidas.
+2026-04-01 18:07:39,448 [INFO] pipeline: ✓ www.gameiroseguros.pt — 7 pág | sim=0.10 | form=0.65 | segs=0 | 46.1s
+2026-04-01 18:07:39,638 [INFO] pipeline: → A processar: www.uniseguros.pt
+2026-04-01 18:07:39,643 [WARNING] crawler.page_navigator: [https://www.marianaalmeidaseguros.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.marianaalmeidaseguros.pt/
+Call log:
+  - navigating to "https://www.marianaalmeidaseguros.pt/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:07:39,954 [WARNING] pipeline: ✗ www.uniseguros.pt: HTTP 403
+2026-04-01 18:07:39,967 [INFO] pipeline: → A processar: www.forteseguros.pt
+2026-04-01 18:07:40,799 [WARNING] crawler.page_navigator: [https://www.marianaalmeidaseguros.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.marianaalmeidaseguros.pt/
+Call log:
+  - navigating to "https://www.marianaalmeidaseguros.pt/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:07:41,826 [WARNING] crawler.page_navigator: [https://www.marianaalmeidaseguros.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.marianaalmeidaseguros.pt/
+Call log:
+  - navigating to "https://www.marianaalmeidaseguros.pt/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:07:41,829 [WARNING] pipeline: ✗ www.marianaalmeidaseguros.pt: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.marianaalmeidaseguros.pt/
+Call log:
+  - navigating to "https://www.marianaalmeidaseguros.pt/", waiting until "domcontentloaded"
+
+2026-04-01 18:07:41,844 [INFO] pipeline: → A processar: www.xseguros.pt
+2026-04-01 18:07:43,789 [INFO] crawler.page_navigator: [https://www.joaoverissimoimobiliaria.pt] 5 página(s) recolhidas.
+2026-04-01 18:07:43,856 [INFO] pipeline: ✓ www.joaoverissimoimobiliaria.pt — 5 pág | sim=0.20 | form=0.05 | segs=0 | 8.1s
+2026-04-01 18:07:43,981 [INFO] pipeline: → A processar: www.medigol.pt
+2026-04-01 18:07:46,450 [INFO] crawler.page_navigator: [https://www.adicionalseguros.com] 9 página(s) recolhidas.
+2026-04-01 18:07:46,609 [INFO] pipeline: ✓ www.adicionalseguros.com — 9 pág | sim=0.00 | form=0.80 | segs=5 | 36.2s
+2026-04-01 18:07:46,788 [INFO] pipeline: → A processar: www.acmorais.com
+2026-04-01 18:07:46,841 [INFO] crawler.page_navigator: [https://www.daviseguros.pt] 6 página(s) recolhidas.
+2026-04-01 18:07:46,975 [INFO] pipeline: ✓ www.daviseguros.pt — 6 pág | sim=0.00 | form=0.20 | segs=9 | 12.6s
+2026-04-01 18:07:47,105 [INFO] pipeline: → A processar: www.atualmed.com
+2026-04-01 18:07:47,634 [INFO] crawler.page_navigator: [https://www.etseguros.com] 10 página(s) recolhidas.
+2026-04-01 18:07:47,944 [INFO] pipeline: ✓ www.etseguros.com — 10 pág | sim=0.00 | form=0.05 | segs=0 | 26.9s
+2026-04-01 18:07:48,236 [INFO] pipeline: → A processar: www.pauloloureiro.pt
+2026-04-01 18:07:50,386 [WARNING] crawler.page_navigator: [https://www.carlosnoronha.pt/contactos] Timeout (tentativa 1)
+2026-04-01 18:07:54,984 [INFO] crawler.page_navigator: [https://www.fafeseguros.pt] 4 página(s) recolhidas.
+2026-04-01 18:07:55,045 [INFO] pipeline: ✓ www.fafeseguros.pt — 4 pág | sim=0.00 | form=1.00 | segs=0 | 18.3s
+2026-04-01 18:07:55,136 [INFO] pipeline: → A processar: www.elmanoseguros.pt
+2026-04-01 18:07:55,767 [INFO] crawler.page_navigator: [https://www.atualmed.com] 4 página(s) recolhidas.
+2026-04-01 18:07:55,820 [INFO] pipeline: ✓ www.atualmed.com — 4 pág | sim=0.10 | form=0.70 | segs=0 | 8.7s
+2026-04-01 18:07:55,914 [INFO] pipeline: → A processar: www.jlpi.pt
+2026-04-01 18:07:58,563 [INFO] crawler.page_navigator: [https://www.segurosmais.pt] 10 página(s) recolhidas.
+2026-04-01 18:07:59,049 [INFO] pipeline: ✓ www.segurosmais.pt — 10 pág | sim=0.50 | form=0.80 | segs=18 | 39.5s
+2026-04-01 18:07:59,380 [INFO] pipeline: → A processar: www.aguiarseguros.pt
+2026-04-01 18:08:00,668 [INFO] crawler.page_navigator: [https://www.pauloloureiro.pt] 1 página(s) recolhidas.
+2026-04-01 18:08:00,697 [INFO] pipeline: ✓ www.pauloloureiro.pt — 1 pág | sim=0.00 | form=1.00 | segs=1 | 12.5s
+2026-04-01 18:08:00,745 [INFO] pipeline: → A processar: www.carvalheira.pt
+2026-04-01 18:08:00,918 [WARNING] crawler.page_navigator: [https://www.carvalheira.pt] Erro: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.carvalheira.pt/
+Call log:
+  - navigating to "https://www.carvalheira.pt/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:08:01,996 [WARNING] crawler.page_navigator: [https://www.carvalheira.pt] Erro: Page.goto: net::ERR_CONNECTION_ABORTED at https://www.carvalheira.pt/
+Call log:
+  - navigating to "https://www.carvalheira.pt/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:08:02,597 [INFO] crawler.page_navigator: [https://www.jlpi.pt] 3 página(s) recolhidas.
+2026-04-01 18:08:02,622 [INFO] pipeline: ✓ www.jlpi.pt — 3 pág | sim=0.00 | form=0.70 | segs=0 | 6.7s
+2026-04-01 18:08:02,684 [INFO] pipeline: → A processar: www.oakseguros.pt
+2026-04-01 18:08:03,088 [WARNING] crawler.page_navigator: [https://www.carvalheira.pt] Erro: Page.goto: net::ERR_CONNECTION_ABORTED at https://www.carvalheira.pt/
+Call log:
+  - navigating to "https://www.carvalheira.pt/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:08:03,093 [WARNING] pipeline: ✗ www.carvalheira.pt: Page.goto: net::ERR_CONNECTION_ABORTED at https://www.carvalheira.pt/
+Call log:
+  - navigating to "https://www.carvalheira.pt/", waiting until "domcontentloaded"
+
+2026-04-01 18:08:03,107 [INFO] pipeline: → A processar: www.mslseguros.pt
+2026-04-01 18:08:04,451 [INFO] crawler.page_navigator: [https://www.oakseguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:08:04,471 [INFO] pipeline: ✓ www.oakseguros.pt — 1 pág | sim=0.00 | form=0.05 | segs=7 | 1.8s
+2026-04-01 18:08:04,508 [INFO] pipeline: → A processar: www.caisdofarol.com
+2026-04-01 18:08:04,921 [INFO] crawler.page_navigator: [https://www.medigol.pt] 6 página(s) recolhidas.
+2026-04-01 18:08:05,013 [INFO] pipeline: ✓ www.medigol.pt — 6 pág | sim=0.10 | form=0.15 | segs=2 | 21.0s
+2026-04-01 18:08:05,156 [INFO] pipeline: → A processar: www.augustorodrigues.pt
+2026-04-01 18:08:06,684 [INFO] crawler.page_navigator: [https://www.augustorodrigues.pt] 1 página(s) recolhidas.
+2026-04-01 18:08:06,689 [INFO] pipeline: ✓ www.augustorodrigues.pt — 1 pág | sim=0.00 | form=0.00 | segs=0 | 1.5s
+2026-04-01 18:08:06,713 [INFO] pipeline: → A processar: www.cardosoepauloseguros.pt
+2026-04-01 18:08:07,235 [INFO] crawler.page_navigator: [https://www.arturgarcia.pt] 10 página(s) recolhidas.
+2026-04-01 18:08:07,465 [INFO] pipeline: ✓ www.arturgarcia.pt — 10 pág | sim=0.10 | form=1.00 | segs=0 | 36.2s
+2026-04-01 18:08:07,749 [INFO] pipeline: → A processar: www.odulisser.pt
+2026-04-01 18:08:07,853 [INFO] crawler.page_navigator: [https://www.mcbrseguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:08:07,868 [INFO] pipeline: ✓ www.mcbrseguros.pt — 1 pág | sim=0.00 | form=0.05 | segs=0 | 33.3s
+2026-04-01 18:08:07,899 [INFO] pipeline: → A processar: siera.pt
+2026-04-01 18:08:08,346 [INFO] crawler.page_navigator: [https://hurigo.allianz.pt] 10 página(s) recolhidas.
+2026-04-01 18:08:08,739 [INFO] pipeline: ✓ hurigo.allianz.pt — 10 pág | sim=0.10 | form=0.10 | segs=1 | 32.8s
+2026-04-01 18:08:09,059 [INFO] pipeline: → A processar: www.porfirioseguros.pt
+2026-04-01 18:08:09,442 [INFO] crawler.page_navigator: [https://www.mslseguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:08:09,459 [INFO] pipeline: ✓ www.mslseguros.pt — 1 pág | sim=0.00 | form=1.00 | segs=0 | 6.4s
+2026-04-01 18:08:09,484 [INFO] pipeline: → A processar: www.seziseguros.pt
+2026-04-01 18:08:10,917 [WARNING] pipeline: ✗ www.porfirioseguros.pt: HTTP 503
+2026-04-01 18:08:10,932 [INFO] pipeline: → A processar: www.seguros-sines.pt
+2026-04-01 18:08:13,088 [INFO] crawler.page_navigator: [https://www.elmanoseguros.pt] 4 página(s) recolhidas.
+2026-04-01 18:08:13,159 [INFO] pipeline: ✓ www.elmanoseguros.pt — 4 pág | sim=0.00 | form=1.00 | segs=4 | 18.0s
+2026-04-01 18:08:13,236 [INFO] pipeline: → A processar: www.pinto-lopes.com
+2026-04-01 18:08:13,560 [WARNING] crawler.page_navigator: [https://www.pinto-lopes.com] Erro: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.pinto-lopes.com/
+Call log:
+  - navigating to "https://www.pinto-lopes.com/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:08:13,811 [INFO] crawler.page_navigator: [https://www.xseguros.pt] 10 página(s) recolhidas.
+2026-04-01 18:08:14,043 [INFO] pipeline: ✓ www.xseguros.pt — 10 pág | sim=0.10 | form=0.80 | segs=3 | 32.2s
+2026-04-01 18:08:14,258 [INFO] pipeline: → A processar: www.casinhasseguros.pt
+2026-04-01 18:08:14,292 [INFO] crawler.page_navigator: [https://www.asl-sn.pt] 6 página(s) recolhidas.
+2026-04-01 18:08:14,470 [INFO] pipeline: ✓ www.asl-sn.pt — 6 pág | sim=0.10 | form=0.80 | segs=0 | 37.5s
+2026-04-01 18:08:14,628 [INFO] pipeline: → A processar: www.acordoseguro.pt
+2026-04-01 18:08:14,742 [WARNING] crawler.page_navigator: [https://www.pinto-lopes.com] Erro: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.pinto-lopes.com/
+Call log:
+  - navigating to "https://www.pinto-lopes.com/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:08:15,840 [WARNING] crawler.page_navigator: [https://www.pinto-lopes.com] Erro: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.pinto-lopes.com/
+Call log:
+  - navigating to "https://www.pinto-lopes.com/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:08:15,846 [WARNING] pipeline: ✗ www.pinto-lopes.com: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.pinto-lopes.com/
+Call log:
+  - navigating to "https://www.pinto-lopes.com/", waiting until "domcontentloaded"
+
+2026-04-01 18:08:15,860 [INFO] pipeline: → A processar: brunorosaseguros.wixsite.com
+2026-04-01 18:08:16,324 [WARNING] pipeline: ✗ brunorosaseguros.wixsite.com: HTTP 404
+2026-04-01 18:08:16,337 [INFO] pipeline: → A processar: www.valmedis.pt
+2026-04-01 18:08:18,185 [WARNING] crawler.page_navigator: [https://www.forteseguros.pt/quem-somos] Timeout (tentativa 1)
+2026-04-01 18:08:18,753 [INFO] crawler.page_navigator: [https://www.seziseguros.pt] 3 página(s) recolhidas.
+2026-04-01 18:08:18,801 [INFO] pipeline: ✓ www.seziseguros.pt — 3 pág | sim=0.10 | form=1.00 | segs=6 | 9.3s
+2026-04-01 18:08:18,899 [INFO] pipeline: → A processar: www.nsalvador.pt
+2026-04-01 18:08:19,456 [INFO] crawler.page_navigator: [https://siera.pt] 1 página(s) recolhidas.
+2026-04-01 18:08:19,486 [INFO] pipeline: ✓ siera.pt — 1 pág | sim=0.30 | form=0.70 | segs=0 | 11.6s
+2026-04-01 18:08:19,525 [INFO] pipeline: → A processar: www.osseguros.pt
+2026-04-01 18:08:20,695 [INFO] crawler.page_navigator: [https://www.valmedis.pt] 1 página(s) recolhidas.
+2026-04-01 18:08:20,714 [INFO] pipeline: ✓ www.valmedis.pt — 1 pág | sim=0.00 | form=0.05 | segs=0 | 4.4s
+2026-04-01 18:08:20,741 [INFO] pipeline: → A processar: www.eg-seguros.pt
+2026-04-01 18:08:21,046 [INFO] crawler.page_navigator: [https://www.hisonia.com] 10 página(s) recolhidas.
+2026-04-01 18:08:21,357 [INFO] pipeline: ✓ www.hisonia.com — 10 pág | sim=0.10 | form=0.05 | segs=8 | 95.1s
+2026-04-01 18:08:21,607 [INFO] pipeline: → A processar: www.megaseguros.pt
+2026-04-01 18:08:23,584 [INFO] crawler.page_navigator: [https://www.carlosnoronha.pt] 7 página(s) recolhidas.
+2026-04-01 18:08:23,864 [INFO] pipeline: ✓ www.carlosnoronha.pt — 7 pág | sim=0.00 | form=0.20 | segs=1 | 96.9s
+2026-04-01 18:08:24,023 [INFO] pipeline: → A processar: www.maosegura.com
+2026-04-01 18:08:24,734 [INFO] crawler.page_navigator: [https://www.acmorais.com] 4 página(s) recolhidas.
+2026-04-01 18:08:24,902 [INFO] pipeline: ✓ www.acmorais.com — 4 pág | sim=0.00 | form=0.10 | segs=6 | 38.1s
+2026-04-01 18:08:25,020 [INFO] pipeline: → A processar: www.vieira-vieira.com
+2026-04-01 18:08:27,944 [INFO] crawler.page_navigator: [https://www.maosegura.com] 1 página(s) recolhidas.
+2026-04-01 18:08:27,967 [INFO] pipeline: ✓ www.maosegura.com — 1 pág | sim=0.00 | form=0.05 | segs=6 | 3.9s
+2026-04-01 18:08:28,017 [INFO] pipeline: → A processar: www.sgs-car.pt
+2026-04-01 18:08:30,645 [INFO] crawler.page_navigator: [https://www.senhorinhoseguros.com] 7 página(s) recolhidas.
+2026-04-01 18:08:31,028 [INFO] pipeline: ✓ www.senhorinhoseguros.com — 7 pág | sim=0.10 | form=0.80 | segs=1 | 57.2s
+2026-04-01 18:08:31,283 [INFO] pipeline: → A processar: www.esfericidade.pt
+2026-04-01 18:08:35,263 [INFO] crawler.page_navigator: [https://www.forteseguros.pt] 9 página(s) recolhidas.
+2026-04-01 18:08:35,459 [INFO] pipeline: ✓ www.forteseguros.pt — 9 pág | sim=0.00 | form=0.80 | segs=2 | 55.5s
+2026-04-01 18:08:35,657 [INFO] pipeline: → A processar: www.somefa.pt
+2026-04-01 18:08:35,679 [INFO] crawler.page_navigator: [https://www.seguros-sines.pt] 8 página(s) recolhidas.
+2026-04-01 18:08:35,783 [INFO] pipeline: ✓ www.seguros-sines.pt — 8 pág | sim=0.20 | form=0.80 | segs=4 | 24.9s
+2026-04-01 18:08:35,963 [INFO] pipeline: → A processar: www.trataseg.pt
+2026-04-01 18:08:37,314 [INFO] crawler.page_navigator: [https://www.casinhasseguros.pt] 7 página(s) recolhidas.
+2026-04-01 18:08:37,417 [INFO] pipeline: ✓ www.casinhasseguros.pt — 7 pág | sim=0.30 | form=1.00 | segs=4 | 23.2s
+2026-04-01 18:08:37,572 [INFO] pipeline: → A processar: www.planaltoseguro.com
+2026-04-01 18:08:38,099 [INFO] crawler.page_navigator: [https://www.caisdofarol.com] 10 página(s) recolhidas.
+2026-04-01 18:08:38,337 [INFO] pipeline: ✓ www.caisdofarol.com — 10 pág | sim=0.00 | form=0.95 | segs=6 | 33.8s
+2026-04-01 18:08:38,632 [INFO] pipeline: → A processar: www.segurmaranus.pt
+2026-04-01 18:08:38,685 [INFO] crawler.page_navigator: [https://www.vieira-vieira.com] 2 página(s) recolhidas.
+2026-04-01 18:08:38,763 [INFO] pipeline: ✓ www.vieira-vieira.com — 2 pág | sim=0.00 | form=0.05 | segs=0 | 13.7s
+2026-04-01 18:08:38,821 [INFO] pipeline: → A processar: www.clemarseguros.pt
+2026-04-01 18:08:41,874 [INFO] crawler.page_navigator: [https://www.nsalvador.pt] 6 página(s) recolhidas.
+2026-04-01 18:08:42,218 [INFO] pipeline: ✓ www.nsalvador.pt — 6 pág | sim=0.00 | form=1.00 | segs=0 | 23.3s
+2026-04-01 18:08:42,324 [INFO] pipeline: → A processar: www.cbk.pt
+2026-04-01 18:08:42,452 [INFO] crawler.page_navigator: [https://www.clemarseguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:08:42,468 [INFO] pipeline: ✓ www.clemarseguros.pt — 1 pág | sim=0.00 | form=0.10 | segs=4 | 3.6s
+2026-04-01 18:08:42,515 [INFO] pipeline: → A processar: www.jnevesseguros.com
+2026-04-01 18:08:45,165 [INFO] crawler.page_navigator: [https://www.esfericidade.pt] 6 página(s) recolhidas.
+2026-04-01 18:08:45,315 [INFO] pipeline: ✓ www.esfericidade.pt — 6 pág | sim=0.00 | form=0.10 | segs=0 | 14.0s
+2026-04-01 18:08:45,503 [INFO] pipeline: → A processar: www.sofiaseguros.pt
+2026-04-01 18:08:46,967 [INFO] crawler.page_navigator: [https://www.planaltoseguro.com] 3 página(s) recolhidas.
+2026-04-01 18:08:47,002 [INFO] pipeline: ✓ www.planaltoseguro.com — 3 pág | sim=0.00 | form=1.00 | segs=0 | 9.4s
+2026-04-01 18:08:47,085 [INFO] pipeline: → A processar: www.luisramoslda.pt
+2026-04-01 18:08:47,220 [WARNING] crawler.page_navigator: [https://www.luisramoslda.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.luisramoslda.pt/
+Call log:
+  - navigating to "https://www.luisramoslda.pt/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:08:47,301 [INFO] crawler.page_navigator: [https://www.cardosoepauloseguros.pt] 5 página(s) recolhidas.
+2026-04-01 18:08:47,798 [INFO] pipeline: ✓ www.cardosoepauloseguros.pt — 5 pág | sim=0.10 | form=1.00 | segs=7 | 41.1s
+2026-04-01 18:08:47,956 [INFO] pipeline: → A processar: www.alberto-carvalho.com
+2026-04-01 18:08:47,984 [INFO] crawler.page_navigator: [https://www.acordoseguro.pt] 7 página(s) recolhidas.
+2026-04-01 18:08:48,167 [INFO] pipeline: ✓ www.acordoseguro.pt — 7 pág | sim=0.30 | form=1.00 | segs=9 | 33.5s
+2026-04-01 18:08:48,377 [INFO] pipeline: → A processar: miguelpaixao.allianz.pt
+2026-04-01 18:08:48,471 [WARNING] crawler.page_navigator: [https://www.luisramoslda.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.luisramoslda.pt/
+Call log:
+  - navigating to "https://www.luisramoslda.pt/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:08:49,491 [WARNING] crawler.page_navigator: [https://www.luisramoslda.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.luisramoslda.pt/
+Call log:
+  - navigating to "https://www.luisramoslda.pt/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:08:49,495 [WARNING] pipeline: ✗ www.luisramoslda.pt: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.luisramoslda.pt/
+Call log:
+  - navigating to "https://www.luisramoslda.pt/", waiting until "domcontentloaded"
+
+2026-04-01 18:08:49,509 [INFO] pipeline: → A processar: www.msseguros.pt
+2026-04-01 18:08:50,424 [INFO] crawler.page_navigator: [https://www.alberto-carvalho.com] 1 página(s) recolhidas.
+2026-04-01 18:08:50,428 [INFO] pipeline: ✓ www.alberto-carvalho.com — 1 pág | sim=0.00 | form=0.00 | segs=0 | 2.5s
+2026-04-01 18:08:50,455 [INFO] pipeline: → A processar: www.teica.pt
+2026-04-01 18:08:53,537 [INFO] crawler.page_navigator: [https://www.aguiarseguros.pt] 4 página(s) recolhidas.
+2026-04-01 18:08:53,742 [INFO] pipeline: ✓ www.aguiarseguros.pt — 4 pág | sim=0.00 | form=1.00 | segs=12 | 54.4s
+2026-04-01 18:08:53,904 [INFO] pipeline: → A processar: www.asurya.pt
+2026-04-01 18:08:55,031 [INFO] crawler.page_navigator: [https://www.sgs-car.pt] 10 página(s) recolhidas.
+2026-04-01 18:08:55,245 [INFO] pipeline: ✓ www.sgs-car.pt — 10 pág | sim=0.00 | form=0.05 | segs=0 | 27.2s
+2026-04-01 18:08:55,405 [INFO] pipeline: → A processar: www.mgtseguros.pt
+2026-04-01 18:08:56,336 [INFO] crawler.page_navigator: [https://www.trataseg.pt] 5 página(s) recolhidas.
+2026-04-01 18:08:56,600 [INFO] pipeline: ✓ www.trataseg.pt — 5 pág | sim=0.80 | form=1.00 | segs=1 | 20.6s
+2026-04-01 18:08:56,802 [INFO] pipeline: → A processar: www.segatlantico.pt
+2026-04-01 18:08:57,335 [INFO] crawler.page_navigator: [https://www.osseguros.pt] 7 página(s) recolhidas.
+2026-04-01 18:08:57,440 [INFO] pipeline: ✓ www.osseguros.pt — 7 pág | sim=0.10 | form=0.05 | segs=9 | 37.9s
+2026-04-01 18:08:57,658 [INFO] pipeline: → A processar: www.espacoseguro.pt
+2026-04-01 18:08:58,213 [INFO] crawler.page_navigator: [https://www.msseguros.pt] 3 página(s) recolhidas.
+2026-04-01 18:08:58,264 [INFO] pipeline: ✓ www.msseguros.pt — 3 pág | sim=0.00 | form=1.00 | segs=3 | 8.8s
+2026-04-01 18:08:58,336 [INFO] pipeline: → A processar: www.peviseg.pt
+2026-04-01 18:08:58,350 [INFO] crawler.page_navigator: [https://www.somefa.pt] 10 página(s) recolhidas.
+2026-04-01 18:08:58,495 [INFO] pipeline: ✓ www.somefa.pt — 10 pág | sim=0.10 | form=0.80 | segs=3 | 22.8s
+2026-04-01 18:08:58,787 [INFO] pipeline: → A processar: www.andreabreu.com
+2026-04-01 18:08:59,792 [INFO] crawler.page_navigator: [https://www.eg-seguros.pt] 5 página(s) recolhidas.
+2026-04-01 18:08:59,887 [INFO] pipeline: ✓ www.eg-seguros.pt — 5 pág | sim=0.10 | form=0.05 | segs=0 | 39.1s
+2026-04-01 18:08:59,986 [INFO] pipeline: → A processar: www.tranquilidade.pt
+2026-04-01 18:09:00,787 [INFO] crawler.page_navigator: [https://www.odulisser.pt] 3 página(s) recolhidas.
+2026-04-01 18:09:00,881 [INFO] pipeline: ✓ www.odulisser.pt — 3 pág | sim=0.00 | form=1.00 | segs=0 | 53.1s
+2026-04-01 18:09:00,954 [INFO] pipeline: → A processar: www.segursena.pt
+2026-04-01 18:09:01,947 [WARNING] pipeline: ✗ www.segursena.pt: HTTP 500
+2026-04-01 18:09:01,960 [INFO] pipeline: → A processar: www.redeseguros.pt
+2026-04-01 18:09:02,154 [WARNING] crawler.page_navigator: [https://www.redeseguros.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.redeseguros.pt/
+Call log:
+  - navigating to "https://www.redeseguros.pt/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:09:02,762 [INFO] crawler.page_navigator: [https://www.peviseg.pt] 1 página(s) recolhidas.
+2026-04-01 18:09:02,780 [INFO] pipeline: ✓ www.peviseg.pt — 1 pág | sim=0.00 | form=0.45 | segs=1 | 4.4s
+2026-04-01 18:09:02,823 [INFO] pipeline: → A processar: www.alvessantos-seguros.com
+2026-04-01 18:09:03,173 [WARNING] crawler.page_navigator: [https://www.redeseguros.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.redeseguros.pt/
+Call log:
+  - navigating to "https://www.redeseguros.pt/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:09:04,009 [INFO] crawler.page_navigator: [https://www.megaseguros.pt] 10 página(s) recolhidas.
+2026-04-01 18:09:04,193 [INFO] pipeline: ✓ www.megaseguros.pt — 10 pág | sim=0.30 | form=1.00 | segs=0 | 42.6s
+2026-04-01 18:09:04,531 [INFO] pipeline: → A processar: www.facultativa.com
+2026-04-01 18:09:04,561 [WARNING] crawler.page_navigator: [https://www.redeseguros.pt] Erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.redeseguros.pt/
+Call log:
+  - navigating to "https://www.redeseguros.pt/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:09:04,565 [WARNING] pipeline: ✗ www.redeseguros.pt: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.redeseguros.pt/
+Call log:
+  - navigating to "https://www.redeseguros.pt/", waiting until "domcontentloaded"
+
+2026-04-01 18:09:04,579 [INFO] pipeline: → A processar: www.cresposeguros.pt
+2026-04-01 18:09:04,912 [WARNING] crawler.page_navigator: [https://www.facultativa.com] Erro: Page.goto: net::ERR_CERT_DATE_INVALID at https://www.facultativa.com/
+Call log:
+  - navigating to "https://www.facultativa.com/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:09:05,076 [INFO] crawler.page_navigator: [https://www.alvessantos-seguros.com] 1 página(s) recolhidas.
+2026-04-01 18:09:05,081 [INFO] pipeline: ✓ www.alvessantos-seguros.com — 1 pág | sim=0.00 | form=0.00 | segs=0 | 2.3s
+2026-04-01 18:09:05,107 [INFO] pipeline: → A processar: www.bonuscerto.pt
+2026-04-01 18:09:06,055 [WARNING] crawler.page_navigator: [https://www.facultativa.com] Erro: Page.goto: net::ERR_CERT_DATE_INVALID at https://www.facultativa.com/
+Call log:
+  - navigating to "https://www.facultativa.com/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:09:06,526 [INFO] crawler.page_navigator: [https://www.cbk.pt] 14 página(s) recolhidas.
+2026-04-01 18:09:06,894 [INFO] pipeline: ✓ www.cbk.pt — 14 pág | sim=0.00 | form=0.05 | segs=0 | 24.6s
+2026-04-01 18:09:07,231 [INFO] pipeline: → A processar: www.solucoesapuradas.pt
+2026-04-01 18:09:07,271 [INFO] crawler.page_navigator: [https://www.jnevesseguros.com] 8 página(s) recolhidas.
+2026-04-01 18:09:07,401 [INFO] pipeline: ✓ www.jnevesseguros.com — 8 pág | sim=0.10 | form=0.70 | segs=0 | 24.9s
+2026-04-01 18:09:07,659 [INFO] pipeline: → A processar: www.carlosreu.net
+2026-04-01 18:09:07,666 [WARNING] crawler.page_navigator: [https://www.facultativa.com] Erro: Page.goto: net::ERR_CERT_DATE_INVALID at https://www.facultativa.com/
+Call log:
+  - navigating to "https://www.facultativa.com/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:09:07,670 [WARNING] pipeline: ✗ www.facultativa.com: Page.goto: net::ERR_CERT_DATE_INVALID at https://www.facultativa.com/
+Call log:
+  - navigating to "https://www.facultativa.com/", waiting until "domcontentloaded"
+
+2026-04-01 18:09:07,684 [INFO] pipeline: → A processar: www.mediklassic.pt
+2026-04-01 18:09:07,796 [INFO] crawler.page_navigator: [https://www.teica.pt] 7 página(s) recolhidas.
+2026-04-01 18:09:08,002 [INFO] pipeline: ✓ www.teica.pt — 7 pág | sim=0.20 | form=1.00 | segs=4 | 17.5s
+2026-04-01 18:09:08,223 [INFO] pipeline: → A processar: www.happyseguros.pt
+2026-04-01 18:09:09,697 [INFO] crawler.page_navigator: [https://www.carlosreu.net] 1 página(s) recolhidas.
+2026-04-01 18:09:09,717 [INFO] pipeline: ✓ www.carlosreu.net — 1 pág | sim=0.00 | form=0.00 | segs=0 | 2.1s
+2026-04-01 18:09:09,744 [INFO] pipeline: → A processar: www.jgomes-seguros.com
+2026-04-01 18:09:10,105 [WARNING] crawler.page_navigator: [https://www.jgomes-seguros.com] Erro: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.jgomes-seguros.com/
+Call log:
+  - navigating to "https://www.jgomes-seguros.com/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:09:11,197 [WARNING] crawler.page_navigator: [https://www.jgomes-seguros.com] Erro: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.jgomes-seguros.com/
+Call log:
+  - navigating to "https://www.jgomes-seguros.com/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:09:11,409 [INFO] crawler.page_navigator: [https://www.segurmaranus.pt] 4 página(s) recolhidas.
+2026-04-01 18:09:11,515 [INFO] pipeline: ✓ www.segurmaranus.pt — 4 pág | sim=0.10 | form=1.00 | segs=5 | 32.9s
+2026-04-01 18:09:11,628 [INFO] pipeline: → A processar: www.fernandodomingosseguros.pt
+2026-04-01 18:09:12,199 [INFO] crawler.page_navigator: [https://www.sofiaseguros.pt] 2 página(s) recolhidas.
+2026-04-01 18:09:12,254 [INFO] pipeline: ✓ www.sofiaseguros.pt — 2 pág | sim=0.00 | form=1.00 | segs=4 | 26.8s
+2026-04-01 18:09:12,302 [INFO] pipeline: → A processar: www.cbk.pt
+2026-04-01 18:09:12,354 [WARNING] crawler.page_navigator: [https://www.jgomes-seguros.com] Erro: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.jgomes-seguros.com/
+Call log:
+  - navigating to "https://www.jgomes-seguros.com/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:09:12,376 [WARNING] pipeline: ✗ www.jgomes-seguros.com: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.jgomes-seguros.com/
+Call log:
+  - navigating to "https://www.jgomes-seguros.com/", waiting until "domcontentloaded"
+
+2026-04-01 18:09:12,391 [INFO] pipeline: → A processar: www.dsprivate.com
+2026-04-01 18:09:15,565 [INFO] crawler.page_navigator: [https://www.solucoesapuradas.pt] 4 página(s) recolhidas.
+2026-04-01 18:09:15,639 [INFO] pipeline: ✓ www.solucoesapuradas.pt — 4 pág | sim=0.00 | form=0.20 | segs=6 | 8.4s
+2026-04-01 18:09:15,722 [INFO] pipeline: → A processar: www.medseg.pt
+2026-04-01 18:09:15,725 [INFO] crawler.page_navigator: [https://www.fernandodomingosseguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:09:15,767 [INFO] pipeline: ✓ www.fernandodomingosseguros.pt — 1 pág | sim=0.10 | form=0.70 | segs=0 | 4.1s
+2026-04-01 18:09:15,814 [INFO] pipeline: → A processar: www.cruzferreira.com
+2026-04-01 18:09:21,078 [INFO] crawler.page_navigator: [https://www.asurya.pt] 4 página(s) recolhidas.
+2026-04-01 18:09:21,171 [INFO] pipeline: ✓ www.asurya.pt — 4 pág | sim=0.20 | form=0.80 | segs=2 | 27.3s
+2026-04-01 18:09:21,308 [INFO] pipeline: → A processar: www.topclasse.pt
+2026-04-01 18:09:21,313 [INFO] crawler.page_navigator: [https://www.espacoseguro.pt] 2 página(s) recolhidas.
+2026-04-01 18:09:21,369 [INFO] pipeline: ✓ www.espacoseguro.pt — 2 pág | sim=0.00 | form=0.10 | segs=0 | 23.7s
+2026-04-01 18:09:21,406 [INFO] pipeline: → A processar: www.seguriloja.com
+2026-04-01 18:09:21,527 [INFO] crawler.page_navigator: [https://www.happyseguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:09:21,564 [INFO] pipeline: ✓ www.happyseguros.pt — 1 pág | sim=0.20 | form=0.00 | segs=4 | 13.3s
+2026-04-01 18:09:21,622 [INFO] pipeline: → A processar: www.vizelsegur.com
+2026-04-01 18:09:21,954 [INFO] crawler.page_navigator: [https://miguelpaixao.allianz.pt] 10 página(s) recolhidas.
+2026-04-01 18:09:22,260 [INFO] pipeline: ✓ miguelpaixao.allianz.pt — 10 pág | sim=0.10 | form=0.10 | segs=1 | 33.9s
+2026-04-01 18:09:22,556 [INFO] pipeline: → A processar: www.macaenseseguros.pt
+2026-04-01 18:09:26,584 [INFO] crawler.page_navigator: [https://www.medseg.pt] 6 página(s) recolhidas.
+2026-04-01 18:09:26,634 [INFO] pipeline: ✓ www.medseg.pt — 6 pág | sim=0.10 | form=1.00 | segs=0 | 10.9s
+2026-04-01 18:09:26,802 [INFO] pipeline: → A processar: www.ab-seguros.com
+2026-04-01 18:09:29,767 [INFO] crawler.page_navigator: [https://www.tranquilidade.pt] 2 página(s) recolhidas.
+2026-04-01 18:09:29,773 [INFO] crawler.page_navigator: [https://www.cresposeguros.pt] 4 página(s) recolhidas.
+2026-04-01 18:09:29,919 [INFO] pipeline: ✓ www.cresposeguros.pt — 4 pág | sim=0.00 | form=1.00 | segs=0 | 25.3s
+2026-04-01 18:09:29,981 [INFO] pipeline: → A processar: www.finiconde.pt
+2026-04-01 18:09:30,190 [INFO] pipeline: ✓ www.tranquilidade.pt — 2 pág | sim=0.10 | form=0.20 | segs=4 | 30.2s
+2026-04-01 18:09:30,271 [INFO] pipeline: → A processar: www.borgesgarcia.com
+2026-04-01 18:09:30,682 [WARNING] crawler.page_navigator: [https://www.borgesgarcia.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.borgesgarcia.com/
+Call log:
+  - navigating to "https://www.borgesgarcia.com/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:09:31,440 [INFO] crawler.page_navigator: [https://www.mediklassic.pt] 6 página(s) recolhidas.
+2026-04-01 18:09:31,601 [INFO] pipeline: ✓ www.mediklassic.pt — 6 pág | sim=0.00 | form=1.00 | segs=0 | 23.9s
+2026-04-01 18:09:31,726 [INFO] pipeline: → A processar: www.agiltriunfo.pt
+2026-04-01 18:09:31,808 [INFO] crawler.page_navigator: [https://www.bonuscerto.pt] 6 página(s) recolhidas.
+2026-04-01 18:09:32,160 [INFO] pipeline: ✓ www.bonuscerto.pt — 6 pág | sim=0.10 | form=0.80 | segs=0 | 27.1s
+2026-04-01 18:09:32,332 [INFO] pipeline: → A processar: www.101solucoes.pt
+2026-04-01 18:09:32,335 [WARNING] crawler.page_navigator: [https://www.borgesgarcia.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.borgesgarcia.com/
+Call log:
+  - navigating to "https://www.borgesgarcia.com/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:09:32,354 [INFO] crawler.page_navigator: [https://www.cruzferreira.com] 3 página(s) recolhidas.
+2026-04-01 18:09:32,416 [INFO] pipeline: ✓ www.cruzferreira.com — 3 pág | sim=0.30 | form=1.00 | segs=6 | 16.6s
+2026-04-01 18:09:32,495 [INFO] pipeline: → A processar: www.famedia.pt
+2026-04-01 18:09:32,869 [INFO] crawler.page_navigator: [https://www.ab-seguros.com] 2 página(s) recolhidas.
+2026-04-01 18:09:32,912 [INFO] pipeline: ✓ www.ab-seguros.com — 2 pág | sim=0.00 | form=0.80 | segs=1 | 6.1s
+2026-04-01 18:09:32,969 [INFO] pipeline: → A processar: www.martinhoseguros.pt
+2026-04-01 18:09:33,436 [WARNING] crawler.page_navigator: [https://www.borgesgarcia.com] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.borgesgarcia.com/
+Call log:
+  - navigating to "https://www.borgesgarcia.com/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:09:33,440 [WARNING] pipeline: ✗ www.borgesgarcia.com: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.borgesgarcia.com/
+Call log:
+  - navigating to "https://www.borgesgarcia.com/", waiting until "domcontentloaded"
+
+2026-04-01 18:09:33,455 [INFO] pipeline: → A processar: www.pacontas.pt
+2026-04-01 18:09:33,684 [WARNING] crawler.page_navigator: [https://www.pacontas.pt] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.pacontas.pt/
+Call log:
+  - navigating to "https://www.pacontas.pt/", waiting until "domcontentloaded"
+ (tentativa 1)
+2026-04-01 18:09:34,077 [INFO] crawler.page_navigator: [https://www.seguriloja.com] 1 página(s) recolhidas.
+2026-04-01 18:09:34,282 [INFO] pipeline: ✓ www.seguriloja.com — 1 pág | sim=0.00 | form=0.75 | segs=3 | 12.9s
+2026-04-01 18:09:34,329 [INFO] pipeline: → A processar: www.bridgeprovidence.pt
+2026-04-01 18:09:34,790 [WARNING] crawler.page_navigator: [https://www.pacontas.pt] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.pacontas.pt/
+Call log:
+  - navigating to "https://www.pacontas.pt/", waiting until "domcontentloaded"
+ (tentativa 2)
+2026-04-01 18:09:35,850 [WARNING] crawler.page_navigator: [https://www.pacontas.pt] Erro: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.pacontas.pt/
+Call log:
+  - navigating to "https://www.pacontas.pt/", waiting until "domcontentloaded"
+ (tentativa 3)
+2026-04-01 18:09:35,856 [WARNING] pipeline: ✗ www.pacontas.pt: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.pacontas.pt/
+Call log:
+  - navigating to "https://www.pacontas.pt/", waiting until "domcontentloaded"
+
+2026-04-01 18:09:35,870 [INFO] pipeline: → A processar: www.helderribeiroseguros.pt
+2026-04-01 18:09:36,416 [INFO] crawler.page_navigator: [https://www.dsprivate.com] 6 página(s) recolhidas.
+2026-04-01 18:09:36,686 [INFO] pipeline: ✓ www.dsprivate.com — 6 pág | sim=0.50 | form=0.90 | segs=0 | 24.3s
+2026-04-01 18:09:36,891 [INFO] pipeline: → A processar: www.casadopilar.pt
+2026-04-01 18:09:36,894 [INFO] crawler.page_navigator: [https://www.macaenseseguros.pt] 1 página(s) recolhidas.
+2026-04-01 18:09:36,941 [INFO] pipeline: ✓ www.macaenseseguros.pt — 1 pág | sim=0.10 | form=0.80 | segs=4 | 14.4s
+2026-04-01 18:09:36,997 [INFO] pipeline: → A processar: www.carsport.pt
+2026-04-01 18:09:37,459 [INFO] crawler.browser_pool: A fechar BrowserPool...
+2026-04-01 18:09:37,587 [ERROR] asyncio: Future exception was never retrieved
+future: <Future finished exception=Error('net::ERR_ABORTED at https://www.andreabreu.com/simulador\nCall log:\n  - navigating to "https://www.andreabreu.com/simulador", waiting until "domcontentloaded"\n')>
+playwright._impl._errors.Error: net::ERR_ABORTED at https://www.andreabreu.com/simulador
+Call log:
+  - navigating to "https://www.andreabreu.com/simulador", waiting until "domcontentloaded"
+
+2026-04-01 18:09:37,589 [ERROR] asyncio: Future exception was never retrieved
+future: <Future finished exception=Error('net::ERR_ABORTED at https://www.bridgeprovidence.pt/\nCall log:\n  - navigating to "https://www.bridgeprovidence.pt/", waiting until "domcontentloaded"\n')>
+playwright._impl._errors.Error: net::ERR_ABORTED at https://www.bridgeprovidence.pt/
+Call log:
+  - navigating to "https://www.bridgeprovidence.pt/", waiting until "domcontentloaded"
+
+2026-04-01 18:09:37,590 [ERROR] asyncio: Future exception was never retrieved
+future: <Future finished exception=Error('net::ERR_ABORTED at https://www.segatlantico.pt/seguros\nCall log:\n  - navigating to "https://www.segatlantico.pt/seguros", waiting until "domcontentloaded"\n')>
+playwright._impl._errors.Error: net::ERR_ABORTED at https://www.segatlantico.pt/seguros
+Call log:
+  - navigating to "https://www.segatlantico.pt/seguros", waiting until "domcontentloaded"
+
+2026-04-01 18:09:37,591 [ERROR] asyncio: Future exception was never retrieved
+future: <Future finished exception=Error('net::ERR_ABORTED at https://www.casadopilar.pt/\nCall log:\n  - navigating to "https://www.casadopilar.pt/", waiting until "domcontentloaded"\n')>
+playwright._impl._errors.Error: net::ERR_ABORTED at https://www.casadopilar.pt/
+Call log:
+  - navigating to "https://www.casadopilar.pt/", waiting until "domcontentloaded"
+
+2026-04-01 18:09:37,592 [ERROR] asyncio: Future exception was never retrieved
+future: <Future finished exception=Error('net::ERR_ABORTED at https://www.carsport.pt/\nCall log:\n  - navigating to "https://www.carsport.pt/", waiting until "domcontentloaded"\n')>
+playwright._impl._errors.Error: net::ERR_ABORTED at https://www.carsport.pt/
+Call log:
+  - navigating to "https://www.carsport.pt/", waiting until "domcontentloaded"
+
